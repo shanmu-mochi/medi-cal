@@ -33,7 +33,5 @@ unclean data/*.xlsx
 # Don't ignore outputs - we want those tracked
 
 # Large files
-unclean data/new_data/FFS.csv
-unclean data/new_data/MedicareManaged.csv
 *.csv.gz
 
