@@ -1,0 +1,5 @@
+Model,Predictor,Outcome,Coefficient,p_value,N
+Reimb → Supply,reimb_rate,pcp_per_100k,-0.004876761756771653,0.7994122550224614,22
+MC → Costs,medi_cal_share,cost_per_discharge,53108.82386416795,0.48723413075526256,56
+Margin → PQI,operating_margin,pqi_mean_rate,-314.92852405129554,0.0073569254297391725,56
+MC Rev → PQI,medi_cal_rev_share,pqi_mean_rate,0.13531585560627946,0.9984297197816976,56

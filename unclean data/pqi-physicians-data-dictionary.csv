@@ -1,0 +1,11 @@
+Field Title,Field Name,Data Type,Description
+County,County,Plain text,County in which the patient resided
+Prevention Quality Indicator Description,PQIDescription,Plain text,AHRQ Prevention Quality Indicator Description
+Prevention Quality Indicator Observed Rate,CtyPQIRate,Plain text,"Prevention Quality Indicator observed rate per 100,000 population"
+County Physician Rate,CtyPhyRate,Plain text,"County physician supply rate per 100,000 population"
+Statewide Prevention Quality Indicator observed rate,StPQIRate,Plain text,"Statewide Prevention Quality Indicator observed rate per 100,000 population"
+Statewide Physician Rate,StPhyRate,Plain text,"Statewide physician supply rate per 100,000 population"
+County Mean Length of Stay,CtyMeanLengthStay,Plain text,Mean length of stay (in days) for patients in that county
+Statewide Mean Length of Stay,StMeanLengthStay,Plain text,Mean length of stay (in days) for patients statewide
+Prevention Quality Indicator Rate Comparison,PQIRateComp,Plain text,Comparison of the county Prevention Quality Indicator rate to the statewide Prevention Quality Indicator rate 
+Physician Rate Comparison,PhySupplyRateComp,Plain text,Comparison of the county physician supply rate to the statewide physician supply rate

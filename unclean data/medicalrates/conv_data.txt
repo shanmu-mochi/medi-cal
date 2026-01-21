@@ -1,0 +1,31 @@
+01/15/2026
+001	ADULT	PRIMARY CARE I                        	001	   $10.00	056	   $12.42	011	   $12.38	022	   $10.59	 --	       --	 --	       --	
+001	CHILD	PRIMARY CARE I                        	045	   $10.91	056	   $12.42	043	   $13.59	044	   $11.50	 --	       --	 --	       --	
+002	ALL  	ANESTHESIOLOGY                        	002	   $14.01	 --	       --	028	   $14.71	028	   $14.71	 --	       --	013	   $11.02	
+003	ALL  	OB (C-SECTION)                        	003	   $82.16	 --	       --	024	   $86.29	024	   $86.29	 --	       --	 --	       --	
+004	ALL  	OTHER SURGERY                         	004	   $37.23	018	   $46.95	025	   $39.10	025	   $39.10	 --	       --	004	   $37.23	
+004	ALL  	SURGERY (LAPAROSCOPY GYN)             	016	   $50.67	 --	       --	027	   $53.22	027	   $53.22	 --	       --	 --	       --	
+005	ALL  	RADIOLOGY                             	005	    $3.82	 --	       --	029	    $4.00	029	    $4.00	 --	       --	 --	       --	
+006	ALL  	PATHOLOGY                             	006	    $0.76	 --	       --	006	    $0.76	006	    $0.76	 --	       --	 --	       --	
+007	ALL  	MEDICINE                              	007	    $0.82	017	    $1.04	012	    $1.07	023	    $0.85	 --	       --	 --	       --	
+008	ALL  	REVIEW (MANUAL PRICING)               	008	BY REPORT	008	BY REPORT	008	BY REPORT	008	BY REPORT	008	BY REPORT	008	BY REPORT	
+009	ALL  	FIXED PRICE                           	009	    $1.00	009	    $1.00	009	    $1.00	009	    $1.00	009	    $1.00	009	    $1.00	
+010	ALL  	PODIATRY RADIOLOGY                    	 --	       --	 --	       --	 --	       --	 --	       --	010	    $3.82	 --	       --	
+014	ALL  	ABORTION                              	014	   $34.46	 --	       --	026	   $36.19	026	   $36.19	 --	       --	 --	       --	
+015	ALL  	PODIATRY SURGERY                      	 --	       --	 --	       --	 --	       --	 --	       --	015	   $37.23	 --	       --	
+016	ALL  	GYN                                   	016	   $50.67	 --	       --	027	   $53.22	027	   $53.22	 --	       --	 --	       --	
+017	ALL  	MEDICINE EMERGENCY                    	 --	       --	017	    $1.04	 --	       --	 --	       --	 --	       --	 --	       --	
+019	ALL  	PODIATRY MEDICINE                     	 --	       --	 --	       --	 --	       --	 --	       --	019	    $0.82	 --	       --	
+020	ALL  	ABORTION                              	020	   $26.35	 --	       --	021	   $27.66	021	   $27.66	 --	       --	 --	       --	
+030	ALL  	INJECTIONS                            	030	    $4.46	 --	       --	030	    $4.46	030	    $4.46	 --	       --	030	    $4.46	
+031	CHILD	WELL CHILD EXAMS                      	031	    $1.21	 --	       --	032	    $1.50	033	    $1.28	 --	       --	 --	       --	
+034	ALL  	OB (VAGINAL DELIVERY)                 	034	  $120.15	 --	       --	034	  $120.15	034	  $120.15	 --	       --	 --	       --	
+035	ALL  	ABORTION                              	035	   $37.23	 --	       --	036	   $39.10	036	   $39.10	 --	       --	 --	       --	
+037	ALL  	ANESTHESIOLOGY (OB)                   	037	   $17.06	 --	       --	039	   $17.92	039	   $17.92	 --	       --	038	   $13.42	
+040	ALL  	OTHER OB                              	040	   $50.67	 --	       --	041	   $53.22	041	   $53.22	 --	       --	 --	       --	
+042	ALL  	SURGERY FIXED PRICE                   	042	    $1.00	042	    $1.00	042	    $1.00	042	    $1.00	042	    $1.00	042	    $1.00	
+052	ADULT	PODIATRY PRIMARY CARE I & II - ADULT  	 --	       --	 --	       --	 --	       --	 --	       --	052	   $10.00	 --	       --	
+052	CHILD	PODIATRY PRIMARY CARE I & II - CHILD  	 --	       --	 --	       --	 --	       --	 --	       --	046	   $10.91	 --	       --	
+053	ADULT	PRIMARY CARE II - ADULT               	053	   $10.00	056	   $12.42	050	   $13.11	051	   $10.44	 --	       --	 --	       --	
+053	CHILD	PRIMARY CARE II - CHILD               	049	   $10.91	056	   $12.42	047	   $14.25	048	   $11.36	 --	       --	 --	       --	
+054	ALL  	TUBAL STERILIZATIONS                  	054	   $55.74	 --	       --	055	   $58.54	055	   $58.54	 --	       --	 --	       --	

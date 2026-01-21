@@ -1,0 +1,13 @@
+Test,Result,Verdict
+A1) Pre-specified 33rd pct (24%),"Coef=40.8, p=0.061",Marginally sig
+A1) Pre-specified 50th pct (27%),"Coef=44.8, p=0.064",Marginally sig
+A2) Permutation (1000 shuffles),p=0.052,⚠️ Borderline
+A3) Dose-response deciles,Peaks at 30-35%,✅ Supports threshold
+B) MC × Low ED Supply interaction,p=0.478,Not significant
+C1) ED severity age-adjusted,Same as raw,✅ Robust
+C2) Lagged ED(t-1)→PQI(t),"Coef=384, p<0.0001",✅ Causal direction
+D) Hub vs Satellite counties,Similar effects,✅ Generalizes
+E1) First differences,"r=0.17, p=0.25",Not significant
+E2) Leave-2020-out (2021 only),"Coef=45.5, p=0.051",⚠️ Weakens
+E2) Leave-2020-out (2022 only),"Coef=28.8, p=0.14",⚠️ NS
+G) Age-standardized PQI,"Coef=41.4, p=0.068",⚠️ Weakens

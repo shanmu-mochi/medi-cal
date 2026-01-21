@@ -1,0 +1,13 @@
+Test,Result,Verdict
+1) Dose-response bins,PQI rises sharply at 30-35%,✅ Supports threshold
+2) Rank stability,ρ > 0.99 year-to-year,✅ Proxy valid
+3) Transition matrix,95% stayed same side of 30%,✅ Stable treatment
+4) Granger ED→PQI,"p<0.001 forward, p=0.85 reverse",✅ Causality supported
+5) Distributed lags,ED(t-1) and ED(t-2) both predict,✅ Robust
+6) Severity vs supply,"MC→severity (p=0.04), MC→supply (NS)",✅ Falsification passed
+7) MC×Satellite interaction,Effect 60% larger in satellites,✅ Access mechanism
+8) Quantile regression,Mean/median/75th all p<0.10,⚠️ Upper tail driven
+9) Prop 56 Intensity DiD,"DiD=-174, p=0.001",✅ Significant
+10) Window 2014-19,"DiD=-4.4, p=0.67",⚠️ Not significant
+11) Triple-diff,"DDD=-5.8, p=0.20",⚠️ Not significant
+12) Placebo (amputation),"Coef=3.1, p=0.62",✅ No false positive

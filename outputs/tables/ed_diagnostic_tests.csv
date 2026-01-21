@@ -1,0 +1,6 @@
+Test,Coef,P_value,R2,Interpretation
+A1: ED visits ~ # facilities,-2.7141682560156,0.053118348863172814,0.054018841268880013,More facilities → more ED visits (SUPPLY effect)
+A2: ED visits ~ facilities/100k,11.453003229369003,5.855887426776829e-06,0.1284253554745991,Higher facility rate → more ED visits
+B: # facilities ~ MC share,13.702821416807826,0.24548193442291077,0.018066459176048988,Higher MC share → fewer facilities?
+C1: ED admit rate ~ MC share,0.11566755694549172,0.041489878010040435,0.058241160971522876,Does MC share predict higher severity?
+C2: PQI ~ ED admit rate,571.1066404021431,0.012994364104997746,0.4093782503153034,Does ED severity predict PQI?

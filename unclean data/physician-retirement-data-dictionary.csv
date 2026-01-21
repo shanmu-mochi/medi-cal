@@ -1,0 +1,8 @@
+Field Title,Field Name,Data Type,Description
+County,County,Plain text,County reported in health workforce licensure data
+Region,Region,Plain text,CHIS Region of county reported in health workforce licensure data
+Prevention Quality Indicator Description,PQIDescription,Plain text,AHRQ Prevention Quality Indicator Description
+Years until Retirement,YearsToRetirement,Plain text,Range of years until anticipated retirement
+County Percent of Specialty Physicians Anticipating Retiring,CtyRetirePercent,Plain text,Percent of practicing specialty physicians anticipating to retire in that county
+Region Percent of Specialty Physicians Anticipating Retiring,RegionRetirePercent,Plain text,Percent of practicing specialty physicians anticipating to retire in that region
+Statewide Percent of Specialty Physicians Anticipating Retiring,StRetirePercent,Plain text,Percent of practicing specialty physicians anticipating to retire statewide

@@ -1,0 +1,59 @@
+county_name_raw,county_name_clean,county_fips3,state_fips,fips5
+"Alameda County, California",ALAMEDA,001,06,06001
+"Alpine County, California",ALPINE,003,06,06003
+"Amador County, California",AMADOR,005,06,06005
+"Butte County, California",BUTTE,007,06,06007
+"Calaveras County, California",CALAVERAS,009,06,06009
+"Colusa County, California",COLUSA,011,06,06011
+"Contra Costa County, California",CONTRA COSTA,013,06,06013
+"Del Norte County, California",DEL NORTE,015,06,06015
+"El Dorado County, California",EL DORADO,017,06,06017
+"Fresno County, California",FRESNO,019,06,06019
+"Glenn County, California",GLENN,021,06,06021
+"Humboldt County, California",HUMBOLDT,023,06,06023
+"Imperial County, California",IMPERIAL,025,06,06025
+"Inyo County, California",INYO,027,06,06027
+"Kern County, California",KERN,029,06,06029
+"Kings County, California",KINGS,031,06,06031
+"Lake County, California",LAKE,033,06,06033
+"Lassen County, California",LASSEN,035,06,06035
+"Los Angeles County, California",LOS ANGELES,037,06,06037
+"Madera County, California",MADERA,039,06,06039
+"Marin County, California",MARIN,041,06,06041
+"Mariposa County, California",MARIPOSA,043,06,06043
+"Mendocino County, California",MENDOCINO,045,06,06045
+"Merced County, California",MERCED,047,06,06047
+"Modoc County, California",MODOC,049,06,06049
+"Mono County, California",MONO,051,06,06051
+"Monterey County, California",MONTEREY,053,06,06053
+"Napa County, California",NAPA,055,06,06055
+"Nevada County, California",NEVADA,057,06,06057
+"Orange County, California",ORANGE,059,06,06059
+"Placer County, California",PLACER,061,06,06061
+"Plumas County, California",PLUMAS,063,06,06063
+"Riverside County, California",RIVERSIDE,065,06,06065
+"Sacramento County, California",SACRAMENTO,067,06,06067
+"San Benito County, California",SAN BENITO,069,06,06069
+"San Bernardino County, California",SAN BERNARDINO,071,06,06071
+"San Diego County, California",SAN DIEGO,073,06,06073
+"San Francisco County, California",SAN FRANCISCO,075,06,06075
+"San Joaquin County, California",SAN JOAQUIN,077,06,06077
+"San Luis Obispo County, California",SAN LUIS OBISPO,079,06,06079
+"San Mateo County, California",SAN MATEO,081,06,06081
+"Santa Barbara County, California",SANTA BARBARA,083,06,06083
+"Santa Clara County, California",SANTA CLARA,085,06,06085
+"Santa Cruz County, California",SANTA CRUZ,087,06,06087
+"Shasta County, California",SHASTA,089,06,06089
+"Sierra County, California",SIERRA,091,06,06091
+"Siskiyou County, California",SISKIYOU,093,06,06093
+"Solano County, California",SOLANO,095,06,06095
+"Sonoma County, California",SONOMA,097,06,06097
+"Stanislaus County, California",STANISLAUS,099,06,06099
+"Sutter County, California",SUTTER,101,06,06101
+"Tehama County, California",TEHAMA,103,06,06103
+"Trinity County, California",TRINITY,105,06,06105
+"Tulare County, California",TULARE,107,06,06107
+"Tuolumne County, California",TUOLUMNE,109,06,06109
+"Ventura County, California",VENTURA,111,06,06111
+"Yolo County, California",YOLO,113,06,06113
+"Yuba County, California",YUBA,115,06,06115

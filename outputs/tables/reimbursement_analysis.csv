@@ -1,0 +1,6 @@
+Analysis,Coefficient,SE,p_value,N,Significant,Interpretation
+Bivariate: PQI ~ Cap Rate,6.3,25.9,0.809,22,No,$1000 higher cap rate → +6.3 PQI (NS)
+With MC: PQI ~ Cap Rate + MC,-7.0,,0.849,22,No,Cap rate effect disappears with MC control
+Adult Only: PQI ~ Adult Cap Rate,6.2,,0.822,22,No,$100 higher adult rate → +6.2 PQI (NS)
+MC Correlation: Cap Rate ↔ MC,0.3,,,22,N/A,Modest positive correlation
+PQI Correlation: Cap Rate ↔ PQI,0.03,,,22,N/A,Essentially no correlation

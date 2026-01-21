@@ -1,0 +1,39 @@
+# OS files
+.DS_Store
+.Trash/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Large data files (keep CSVs but ignore raw Excel files)
+unclean data/*.xlsx
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Don't ignore outputs - we want those tracked
+
+# Large files
+unclean data/new_data/FFS.csv
+unclean data/new_data/MedicareManaged.csv
+*.csv.gz
+

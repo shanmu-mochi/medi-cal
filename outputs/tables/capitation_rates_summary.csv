@@ -1,0 +1,6 @@
+Category,Mean_Rate_Monthly,Min_Rate,Max_Rate,Range_Pct
+Adult,361,283,404,43%
+Adult Expansion (ACA),446,375,472,26%
+Child,91,80,100,25%
+SPD (Disabled),1234,846,1420,68%
+LTC (Long-term),10505,8259,16445,99%

@@ -1,0 +1,1549 @@
+﻿County,Region,PQIDescription,YearsToRetirement,CtyRetirePercent,RegionRetirePercent,StRetirePercent
+Alameda,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.041,0.041,0.041
+Alameda,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.147,0.138,0.141
+Alameda,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.171,0.169,0.175
+Alameda,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.64,0.652,0.642
+Alameda,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.043,0.042,0.043
+Alameda,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.151,0.137,0.141
+Alameda,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.174,0.168,0.178
+Alameda,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.632,0.653,0.638
+Alameda,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.044,0.041,0.041
+Alameda,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.15,0.138,0.141
+Alameda,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.173,0.17,0.175
+Alameda,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.634,0.652,0.642
+Alameda,Greater Bay Area,Diabetes Composite,0-2 years,0.04,0.041,0.041
+Alameda,Greater Bay Area,Diabetes Composite,3-5 years,0.147,0.138,0.138
+Alameda,Greater Bay Area,Diabetes Composite,6-10 years,0.181,0.166,0.173
+Alameda,Greater Bay Area,Diabetes Composite,11+ years,0.632,0.655,0.647
+Alameda,Greater Bay Area,Heart Failure,0-2 years,0.042,0.04,0.039
+Alameda,Greater Bay Area,Heart Failure,3-5 years,0.137,0.132,0.135
+Alameda,Greater Bay Area,Heart Failure,6-10 years,0.17,0.173,0.174
+Alameda,Greater Bay Area,Heart Failure,11+ years,0.652,0.655,0.653
+Alameda,Greater Bay Area,Hypertension,0-2 years,0.044,0.04,0.039
+Alameda,Greater Bay Area,Hypertension,3-5 years,0.133,0.134,0.135
+Alameda,Greater Bay Area,Hypertension,6-10 years,0.173,0.174,0.174
+Alameda,Greater Bay Area,Hypertension,11+ years,0.651,0.653,0.653
+Alameda,Greater Bay Area,Urinary Tract Infection,0-2 years,0.039,0.046,0.044
+Alameda,Greater Bay Area,Urinary Tract Infection,3-5 years,0.136,0.139,0.144
+Alameda,Greater Bay Area,Urinary Tract Infection,6-10 years,0.182,0.178,0.18
+Alameda,Greater Bay Area,Urinary Tract Infection,11+ years,0.643,0.636,0.632
+Amador,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.148,0.088,0.041
+Amador,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.117,0.227,0.141
+Amador,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0,0.2,0.175
+Amador,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.735,0.483,0.642
+Amador,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.156,0.086,0.043
+Amador,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.123,0.225,0.141
+Amador,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0,0.2,0.178
+Amador,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.721,0.487,0.638
+Amador,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.148,0.087,0.041
+Amador,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.117,0.231,0.141
+Amador,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0,0.199,0.175
+Amador,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.735,0.481,0.642
+Amador,Northern and Sierra,Diabetes Composite,0-2 years,0.217,0.084,0.041
+Amador,Northern and Sierra,Diabetes Composite,3-5 years,0.106,0.233,0.138
+Amador,Northern and Sierra,Diabetes Composite,6-10 years,0,0.201,0.173
+Amador,Northern and Sierra,Diabetes Composite,11+ years,0.677,0.481,0.647
+Amador,Northern and Sierra,Heart Failure,0-2 years,0.192,0.077,0.039
+Amador,Northern and Sierra,Heart Failure,3-5 years,0.167,0.227,0.135
+Amador,Northern and Sierra,Heart Failure,6-10 years,0,0.192,0.174
+Amador,Northern and Sierra,Heart Failure,11+ years,0.64,0.504,0.653
+Amador,Northern and Sierra,Hypertension,0-2 years,0.192,0.076,0.039
+Amador,Northern and Sierra,Hypertension,3-5 years,0.167,0.226,0.135
+Amador,Northern and Sierra,Hypertension,6-10 years,0,0.19,0.174
+Amador,Northern and Sierra,Hypertension,11+ years,0.64,0.507,0.653
+Amador,Northern and Sierra,Urinary Tract Infection,0-2 years,0.143,0.096,0.044
+Amador,Northern and Sierra,Urinary Tract Infection,3-5 years,0.199,0.225,0.144
+Amador,Northern and Sierra,Urinary Tract Infection,6-10 years,0,0.189,0.18
+Amador,Northern and Sierra,Urinary Tract Infection,11+ years,0.658,0.488,0.632
+Butte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.08,0.088,0.041
+Butte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.226,0.227,0.141
+Butte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.147,0.2,0.175
+Butte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.546,0.483,0.642
+Butte,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.089,0.086,0.043
+Butte,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.232,0.225,0.141
+Butte,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.13,0.2,0.178
+Butte,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.549,0.487,0.638
+Butte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.08,0.087,0.041
+Butte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.226,0.231,0.141
+Butte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.147,0.199,0.175
+Butte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.546,0.481,0.642
+Butte,Northern and Sierra,Diabetes Composite,0-2 years,0.075,0.084,0.041
+Butte,Northern and Sierra,Diabetes Composite,3-5 years,0.212,0.233,0.138
+Butte,Northern and Sierra,Diabetes Composite,6-10 years,0.168,0.201,0.173
+Butte,Northern and Sierra,Diabetes Composite,11+ years,0.545,0.481,0.647
+Butte,Northern and Sierra,Heart Failure,0-2 years,0.067,0.077,0.039
+Butte,Northern and Sierra,Heart Failure,3-5 years,0.259,0.227,0.135
+Butte,Northern and Sierra,Heart Failure,6-10 years,0.138,0.192,0.174
+Butte,Northern and Sierra,Heart Failure,11+ years,0.537,0.504,0.653
+Butte,Northern and Sierra,Hypertension,0-2 years,0.065,0.076,0.039
+Butte,Northern and Sierra,Hypertension,3-5 years,0.249,0.226,0.135
+Butte,Northern and Sierra,Hypertension,6-10 years,0.142,0.19,0.174
+Butte,Northern and Sierra,Hypertension,11+ years,0.544,0.507,0.653
+Butte,Northern and Sierra,Urinary Tract Infection,0-2 years,0.128,0.096,0.044
+Butte,Northern and Sierra,Urinary Tract Infection,3-5 years,0.202,0.225,0.144
+Butte,Northern and Sierra,Urinary Tract Infection,6-10 years,0.124,0.189,0.18
+Butte,Northern and Sierra,Urinary Tract Infection,11+ years,0.546,0.488,0.632
+Calaveras,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Calaveras,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.252,0.227,0.141
+Calaveras,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.527,0.2,0.175
+Calaveras,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.221,0.483,0.642
+Calaveras,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Calaveras,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.271,0.225,0.141
+Calaveras,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.566,0.2,0.178
+Calaveras,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.163,0.487,0.638
+Calaveras,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Calaveras,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.252,0.231,0.141
+Calaveras,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.527,0.199,0.175
+Calaveras,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.221,0.481,0.642
+Calaveras,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Calaveras,Northern and Sierra,Diabetes Composite,3-5 years,0.271,0.233,0.138
+Calaveras,Northern and Sierra,Diabetes Composite,6-10 years,0.566,0.201,0.173
+Calaveras,Northern and Sierra,Diabetes Composite,11+ years,0.163,0.481,0.647
+Calaveras,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Calaveras,Northern and Sierra,Heart Failure,3-5 years,0.234,0.227,0.135
+Calaveras,Northern and Sierra,Heart Failure,6-10 years,0.49,0.192,0.174
+Calaveras,Northern and Sierra,Heart Failure,11+ years,0.276,0.504,0.653
+Calaveras,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Calaveras,Northern and Sierra,Hypertension,3-5 years,0.234,0.226,0.135
+Calaveras,Northern and Sierra,Hypertension,6-10 years,0.49,0.19,0.174
+Calaveras,Northern and Sierra,Hypertension,11+ years,0.276,0.507,0.653
+Calaveras,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Calaveras,Northern and Sierra,Urinary Tract Infection,3-5 years,0.233,0.225,0.144
+Calaveras,Northern and Sierra,Urinary Tract Infection,6-10 years,0.488,0.189,0.18
+Calaveras,Northern and Sierra,Urinary Tract Infection,11+ years,0.279,0.488,0.632
+Colusa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.606,0.088,0.041
+Colusa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0,0.227,0.141
+Colusa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.394,0.2,0.175
+Colusa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0,0.483,0.642
+Colusa,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.606,0.086,0.043
+Colusa,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0,0.225,0.141
+Colusa,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.394,0.2,0.178
+Colusa,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0,0.487,0.638
+Colusa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.606,0.087,0.041
+Colusa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0,0.231,0.141
+Colusa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.394,0.199,0.175
+Colusa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0,0.481,0.642
+Colusa,Northern and Sierra,Diabetes Composite,0-2 years,0.606,0.084,0.041
+Colusa,Northern and Sierra,Diabetes Composite,3-5 years,0,0.233,0.138
+Colusa,Northern and Sierra,Diabetes Composite,6-10 years,0.394,0.201,0.173
+Colusa,Northern and Sierra,Diabetes Composite,11+ years,0,0.481,0.647
+Colusa,Northern and Sierra,Heart Failure,0-2 years,0.377,0.077,0.039
+Colusa,Northern and Sierra,Heart Failure,3-5 years,0.377,0.227,0.135
+Colusa,Northern and Sierra,Heart Failure,6-10 years,0.245,0.192,0.174
+Colusa,Northern and Sierra,Heart Failure,11+ years,0,0.504,0.653
+Colusa,Northern and Sierra,Hypertension,0-2 years,0.377,0.076,0.039
+Colusa,Northern and Sierra,Hypertension,3-5 years,0.377,0.226,0.135
+Colusa,Northern and Sierra,Hypertension,6-10 years,0.245,0.19,0.174
+Colusa,Northern and Sierra,Hypertension,11+ years,0,0.507,0.653
+Colusa,Northern and Sierra,Urinary Tract Infection,0-2 years,0.606,0.096,0.044
+Colusa,Northern and Sierra,Urinary Tract Infection,3-5 years,0,0.225,0.144
+Colusa,Northern and Sierra,Urinary Tract Infection,6-10 years,0.394,0.189,0.18
+Colusa,Northern and Sierra,Urinary Tract Infection,11+ years,0,0.488,0.632
+Contra Costa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.036,0.041,0.041
+Contra Costa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.149,0.138,0.141
+Contra Costa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.185,0.169,0.175
+Contra Costa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.63,0.652,0.642
+Contra Costa,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.039,0.042,0.043
+Contra Costa,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.15,0.137,0.141
+Contra Costa,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.174,0.168,0.178
+Contra Costa,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.638,0.653,0.638
+Contra Costa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.035,0.041,0.041
+Contra Costa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.148,0.138,0.141
+Contra Costa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.186,0.17,0.175
+Contra Costa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.63,0.652,0.642
+Contra Costa,Greater Bay Area,Diabetes Composite,0-2 years,0.043,0.041,0.041
+Contra Costa,Greater Bay Area,Diabetes Composite,3-5 years,0.147,0.138,0.138
+Contra Costa,Greater Bay Area,Diabetes Composite,6-10 years,0.18,0.166,0.173
+Contra Costa,Greater Bay Area,Diabetes Composite,11+ years,0.63,0.655,0.647
+Contra Costa,Greater Bay Area,Heart Failure,0-2 years,0.036,0.04,0.039
+Contra Costa,Greater Bay Area,Heart Failure,3-5 years,0.139,0.132,0.135
+Contra Costa,Greater Bay Area,Heart Failure,6-10 years,0.189,0.173,0.174
+Contra Costa,Greater Bay Area,Heart Failure,11+ years,0.636,0.655,0.653
+Contra Costa,Greater Bay Area,Hypertension,0-2 years,0.036,0.04,0.039
+Contra Costa,Greater Bay Area,Hypertension,3-5 years,0.14,0.134,0.135
+Contra Costa,Greater Bay Area,Hypertension,6-10 years,0.191,0.174,0.174
+Contra Costa,Greater Bay Area,Hypertension,11+ years,0.633,0.653,0.653
+Contra Costa,Greater Bay Area,Urinary Tract Infection,0-2 years,0.04,0.046,0.044
+Contra Costa,Greater Bay Area,Urinary Tract Infection,3-5 years,0.148,0.139,0.144
+Contra Costa,Greater Bay Area,Urinary Tract Infection,6-10 years,0.19,0.178,0.18
+Contra Costa,Greater Bay Area,Urinary Tract Infection,11+ years,0.623,0.636,0.632
+Del Norte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Del Norte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.351,0.227,0.141
+Del Norte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.182,0.2,0.175
+Del Norte,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.467,0.483,0.642
+Del Norte,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Del Norte,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.351,0.225,0.141
+Del Norte,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.182,0.2,0.178
+Del Norte,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.467,0.487,0.638
+Del Norte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Del Norte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.351,0.231,0.141
+Del Norte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.182,0.199,0.175
+Del Norte,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.467,0.481,0.642
+Del Norte,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Del Norte,Northern and Sierra,Diabetes Composite,3-5 years,0.351,0.233,0.138
+Del Norte,Northern and Sierra,Diabetes Composite,6-10 years,0.182,0.201,0.173
+Del Norte,Northern and Sierra,Diabetes Composite,11+ years,0.467,0.481,0.647
+Del Norte,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Del Norte,Northern and Sierra,Heart Failure,3-5 years,0.291,0.227,0.135
+Del Norte,Northern and Sierra,Heart Failure,6-10 years,0.151,0.192,0.174
+Del Norte,Northern and Sierra,Heart Failure,11+ years,0.558,0.504,0.653
+Del Norte,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Del Norte,Northern and Sierra,Hypertension,3-5 years,0.291,0.226,0.135
+Del Norte,Northern and Sierra,Hypertension,6-10 years,0.151,0.19,0.174
+Del Norte,Northern and Sierra,Hypertension,11+ years,0.558,0.507,0.653
+Del Norte,Northern and Sierra,Urinary Tract Infection,0-2 years,0.132,0.096,0.044
+Del Norte,Northern and Sierra,Urinary Tract Infection,3-5 years,0.304,0.225,0.144
+Del Norte,Northern and Sierra,Urinary Tract Infection,6-10 years,0.158,0.189,0.18
+Del Norte,Northern and Sierra,Urinary Tract Infection,11+ years,0.405,0.488,0.632
+El Dorado,Sacramento Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.094,0.048,0.041
+El Dorado,Sacramento Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.209,0.122,0.141
+El Dorado,Sacramento Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.242,0.171,0.175
+El Dorado,Sacramento Area,Asthma in Younger Adults (Age 18-39),11+ years,0.456,0.659,0.642
+El Dorado,Sacramento Area,Community-Acquired Pneumonia,0-2 years,0.102,0.046,0.043
+El Dorado,Sacramento Area,Community-Acquired Pneumonia,3-5 years,0.147,0.12,0.141
+El Dorado,Sacramento Area,Community-Acquired Pneumonia,6-10 years,0.252,0.165,0.178
+El Dorado,Sacramento Area,Community-Acquired Pneumonia,11+ years,0.499,0.668,0.638
+El Dorado,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.092,0.049,0.041
+El Dorado,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.206,0.122,0.141
+El Dorado,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.252,0.171,0.175
+El Dorado,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.45,0.658,0.642
+El Dorado,Sacramento Area,Diabetes Composite,0-2 years,0.072,0.047,0.041
+El Dorado,Sacramento Area,Diabetes Composite,3-5 years,0.164,0.115,0.138
+El Dorado,Sacramento Area,Diabetes Composite,6-10 years,0.239,0.169,0.173
+El Dorado,Sacramento Area,Diabetes Composite,11+ years,0.524,0.67,0.647
+El Dorado,Sacramento Area,Heart Failure,0-2 years,0.089,0.043,0.039
+El Dorado,Sacramento Area,Heart Failure,3-5 years,0.149,0.114,0.135
+El Dorado,Sacramento Area,Heart Failure,6-10 years,0.257,0.168,0.174
+El Dorado,Sacramento Area,Heart Failure,11+ years,0.505,0.675,0.653
+El Dorado,Sacramento Area,Hypertension,0-2 years,0.072,0.043,0.039
+El Dorado,Sacramento Area,Hypertension,3-5 years,0.152,0.114,0.135
+El Dorado,Sacramento Area,Hypertension,6-10 years,0.252,0.167,0.174
+El Dorado,Sacramento Area,Hypertension,11+ years,0.524,0.677,0.653
+El Dorado,Sacramento Area,Urinary Tract Infection,0-2 years,0.08,0.054,0.044
+El Dorado,Sacramento Area,Urinary Tract Infection,3-5 years,0.167,0.122,0.144
+El Dorado,Sacramento Area,Urinary Tract Infection,6-10 years,0.236,0.169,0.18
+El Dorado,Sacramento Area,Urinary Tract Infection,11+ years,0.516,0.655,0.632
+Fresno,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.044,0.034,0.041
+Fresno,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.148,0.137,0.141
+Fresno,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.173,0.191,0.175
+Fresno,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.634,0.639,0.642
+Fresno,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0.043,0.032,0.043
+Fresno,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.15,0.135,0.141
+Fresno,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.168,0.191,0.178
+Fresno,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.639,0.641,0.638
+Fresno,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.044,0.034,0.041
+Fresno,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.147,0.137,0.141
+Fresno,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.172,0.19,0.175
+Fresno,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.637,0.639,0.642
+Fresno,San Joaquin Valley,Diabetes Composite,0-2 years,0.039,0.032,0.041
+Fresno,San Joaquin Valley,Diabetes Composite,3-5 years,0.14,0.131,0.138
+Fresno,San Joaquin Valley,Diabetes Composite,6-10 years,0.168,0.188,0.173
+Fresno,San Joaquin Valley,Diabetes Composite,11+ years,0.653,0.648,0.647
+Fresno,San Joaquin Valley,Heart Failure,0-2 years,0.04,0.029,0.039
+Fresno,San Joaquin Valley,Heart Failure,3-5 years,0.138,0.127,0.135
+Fresno,San Joaquin Valley,Heart Failure,6-10 years,0.158,0.18,0.174
+Fresno,San Joaquin Valley,Heart Failure,11+ years,0.664,0.664,0.653
+Fresno,San Joaquin Valley,Hypertension,0-2 years,0.038,0.031,0.039
+Fresno,San Joaquin Valley,Hypertension,3-5 years,0.139,0.126,0.135
+Fresno,San Joaquin Valley,Hypertension,6-10 years,0.156,0.177,0.174
+Fresno,San Joaquin Valley,Hypertension,11+ years,0.666,0.666,0.653
+Fresno,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.039,0.035,0.044
+Fresno,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.149,0.137,0.144
+Fresno,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.177,0.191,0.18
+Fresno,San Joaquin Valley,Urinary Tract Infection,11+ years,0.635,0.636,0.632
+Glenn,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Glenn,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0,0.227,0.141
+Glenn,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.5,0.2,0.175
+Glenn,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.5,0.483,0.642
+Glenn,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Glenn,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0,0.225,0.141
+Glenn,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.5,0.2,0.178
+Glenn,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.5,0.487,0.638
+Glenn,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Glenn,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0,0.231,0.141
+Glenn,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.5,0.199,0.175
+Glenn,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.5,0.481,0.642
+Glenn,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Glenn,Northern and Sierra,Diabetes Composite,3-5 years,0,0.233,0.138
+Glenn,Northern and Sierra,Diabetes Composite,6-10 years,0.5,0.201,0.173
+Glenn,Northern and Sierra,Diabetes Composite,11+ years,0.5,0.481,0.647
+Glenn,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Glenn,Northern and Sierra,Heart Failure,3-5 years,0,0.227,0.135
+Glenn,Northern and Sierra,Heart Failure,6-10 years,0.5,0.192,0.174
+Glenn,Northern and Sierra,Heart Failure,11+ years,0.5,0.504,0.653
+Glenn,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Glenn,Northern and Sierra,Hypertension,3-5 years,0,0.226,0.135
+Glenn,Northern and Sierra,Hypertension,6-10 years,0.5,0.19,0.174
+Glenn,Northern and Sierra,Hypertension,11+ years,0.5,0.507,0.653
+Glenn,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Glenn,Northern and Sierra,Urinary Tract Infection,3-5 years,0,0.225,0.144
+Glenn,Northern and Sierra,Urinary Tract Infection,6-10 years,0.5,0.189,0.18
+Glenn,Northern and Sierra,Urinary Tract Infection,11+ years,0.5,0.488,0.632
+Humboldt,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.104,0.088,0.041
+Humboldt,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.278,0.227,0.141
+Humboldt,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.204,0.2,0.175
+Humboldt,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.414,0.483,0.642
+Humboldt,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.103,0.086,0.043
+Humboldt,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.278,0.225,0.141
+Humboldt,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.204,0.2,0.178
+Humboldt,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.415,0.487,0.638
+Humboldt,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.1,0.087,0.041
+Humboldt,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.289,0.231,0.141
+Humboldt,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.198,0.199,0.175
+Humboldt,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.413,0.481,0.642
+Humboldt,Northern and Sierra,Diabetes Composite,0-2 years,0.101,0.084,0.041
+Humboldt,Northern and Sierra,Diabetes Composite,3-5 years,0.272,0.233,0.138
+Humboldt,Northern and Sierra,Diabetes Composite,6-10 years,0.221,0.201,0.173
+Humboldt,Northern and Sierra,Diabetes Composite,11+ years,0.407,0.481,0.647
+Humboldt,Northern and Sierra,Heart Failure,0-2 years,0.083,0.077,0.039
+Humboldt,Northern and Sierra,Heart Failure,3-5 years,0.248,0.227,0.135
+Humboldt,Northern and Sierra,Heart Failure,6-10 years,0.238,0.192,0.174
+Humboldt,Northern and Sierra,Heart Failure,11+ years,0.43,0.504,0.653
+Humboldt,Northern and Sierra,Hypertension,0-2 years,0.083,0.076,0.039
+Humboldt,Northern and Sierra,Hypertension,3-5 years,0.248,0.226,0.135
+Humboldt,Northern and Sierra,Hypertension,6-10 years,0.238,0.19,0.174
+Humboldt,Northern and Sierra,Hypertension,11+ years,0.43,0.507,0.653
+Humboldt,Northern and Sierra,Urinary Tract Infection,0-2 years,0.116,0.096,0.044
+Humboldt,Northern and Sierra,Urinary Tract Infection,3-5 years,0.28,0.225,0.144
+Humboldt,Northern and Sierra,Urinary Tract Infection,6-10 years,0.215,0.189,0.18
+Humboldt,Northern and Sierra,Urinary Tract Infection,11+ years,0.389,0.488,0.632
+Imperial,San Diego Area,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.049,0.041
+Imperial,San Diego Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.136,0.139,0.141
+Imperial,San Diego Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.299,0.175,0.175
+Imperial,San Diego Area,Asthma in Younger Adults (Age 18-39),11+ years,0.565,0.636,0.642
+Imperial,San Diego Area,Community-Acquired Pneumonia,0-2 years,0,0.051,0.043
+Imperial,San Diego Area,Community-Acquired Pneumonia,3-5 years,0.185,0.141,0.141
+Imperial,San Diego Area,Community-Acquired Pneumonia,6-10 years,0.293,0.18,0.178
+Imperial,San Diego Area,Community-Acquired Pneumonia,11+ years,0.522,0.629,0.638
+Imperial,San Diego Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.051,0.041
+Imperial,San Diego Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.136,0.14,0.141
+Imperial,San Diego Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.299,0.175,0.175
+Imperial,San Diego Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.565,0.634,0.642
+Imperial,San Diego Area,Diabetes Composite,0-2 years,0.046,0.05,0.041
+Imperial,San Diego Area,Diabetes Composite,3-5 years,0.147,0.135,0.138
+Imperial,San Diego Area,Diabetes Composite,6-10 years,0.29,0.176,0.173
+Imperial,San Diego Area,Diabetes Composite,11+ years,0.517,0.639,0.647
+Imperial,San Diego Area,Heart Failure,0-2 years,0,0.042,0.039
+Imperial,San Diego Area,Heart Failure,3-5 years,0.115,0.13,0.135
+Imperial,San Diego Area,Heart Failure,6-10 years,0.275,0.172,0.174
+Imperial,San Diego Area,Heart Failure,11+ years,0.611,0.656,0.653
+Imperial,San Diego Area,Hypertension,0-2 years,0,0.044,0.039
+Imperial,San Diego Area,Hypertension,3-5 years,0.128,0.127,0.135
+Imperial,San Diego Area,Hypertension,6-10 years,0.274,0.175,0.174
+Imperial,San Diego Area,Hypertension,11+ years,0.598,0.654,0.653
+Imperial,San Diego Area,Urinary Tract Infection,0-2 years,0,0.049,0.044
+Imperial,San Diego Area,Urinary Tract Infection,3-5 years,0.121,0.143,0.144
+Imperial,San Diego Area,Urinary Tract Infection,6-10 years,0.336,0.18,0.18
+Imperial,San Diego Area,Urinary Tract Infection,11+ years,0.543,0.628,0.632
+Inyo,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Inyo,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.335,0.227,0.141
+Inyo,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.47,0.2,0.175
+Inyo,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.195,0.483,0.642
+Inyo,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Inyo,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.335,0.225,0.141
+Inyo,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.47,0.2,0.178
+Inyo,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.195,0.487,0.638
+Inyo,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Inyo,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.335,0.231,0.141
+Inyo,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.47,0.199,0.175
+Inyo,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.195,0.481,0.642
+Inyo,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Inyo,Northern and Sierra,Diabetes Composite,3-5 years,0.335,0.233,0.138
+Inyo,Northern and Sierra,Diabetes Composite,6-10 years,0.47,0.201,0.173
+Inyo,Northern and Sierra,Diabetes Composite,11+ years,0.195,0.481,0.647
+Inyo,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Inyo,Northern and Sierra,Heart Failure,3-5 years,0.256,0.227,0.135
+Inyo,Northern and Sierra,Heart Failure,6-10 years,0.271,0.192,0.174
+Inyo,Northern and Sierra,Heart Failure,11+ years,0.472,0.504,0.653
+Inyo,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Inyo,Northern and Sierra,Hypertension,3-5 years,0.256,0.226,0.135
+Inyo,Northern and Sierra,Hypertension,6-10 years,0.271,0.19,0.174
+Inyo,Northern and Sierra,Hypertension,11+ years,0.472,0.507,0.653
+Inyo,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Inyo,Northern and Sierra,Urinary Tract Infection,3-5 years,0.305,0.225,0.144
+Inyo,Northern and Sierra,Urinary Tract Infection,6-10 years,0.428,0.189,0.18
+Inyo,Northern and Sierra,Urinary Tract Infection,11+ years,0.266,0.488,0.632
+Kern,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.048,0.034,0.041
+Kern,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.13,0.137,0.141
+Kern,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.169,0.191,0.175
+Kern,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.653,0.639,0.642
+Kern,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0.048,0.032,0.043
+Kern,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.131,0.135,0.141
+Kern,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.165,0.191,0.178
+Kern,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.656,0.641,0.638
+Kern,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.048,0.034,0.041
+Kern,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.129,0.137,0.141
+Kern,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.167,0.19,0.175
+Kern,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.656,0.639,0.642
+Kern,San Joaquin Valley,Diabetes Composite,0-2 years,0.048,0.032,0.041
+Kern,San Joaquin Valley,Diabetes Composite,3-5 years,0.117,0.131,0.138
+Kern,San Joaquin Valley,Diabetes Composite,6-10 years,0.16,0.188,0.173
+Kern,San Joaquin Valley,Diabetes Composite,11+ years,0.675,0.648,0.647
+Kern,San Joaquin Valley,Heart Failure,0-2 years,0.041,0.029,0.039
+Kern,San Joaquin Valley,Heart Failure,3-5 years,0.13,0.127,0.135
+Kern,San Joaquin Valley,Heart Failure,6-10 years,0.161,0.18,0.174
+Kern,San Joaquin Valley,Heart Failure,11+ years,0.668,0.664,0.653
+Kern,San Joaquin Valley,Hypertension,0-2 years,0.041,0.031,0.039
+Kern,San Joaquin Valley,Hypertension,3-5 years,0.128,0.126,0.135
+Kern,San Joaquin Valley,Hypertension,6-10 years,0.151,0.177,0.174
+Kern,San Joaquin Valley,Hypertension,11+ years,0.68,0.666,0.653
+Kern,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.048,0.035,0.044
+Kern,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.149,0.137,0.144
+Kern,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.175,0.191,0.18
+Kern,San Joaquin Valley,Urinary Tract Infection,11+ years,0.629,0.636,0.632
+Kings,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.034,0.041
+Kings,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.132,0.137,0.141
+Kings,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.305,0.191,0.175
+Kings,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.563,0.639,0.642
+Kings,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0,0.032,0.043
+Kings,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.132,0.135,0.141
+Kings,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.326,0.191,0.178
+Kings,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.542,0.641,0.638
+Kings,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.034,0.041
+Kings,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.132,0.137,0.141
+Kings,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.305,0.19,0.175
+Kings,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.563,0.639,0.642
+Kings,San Joaquin Valley,Diabetes Composite,0-2 years,0,0.032,0.041
+Kings,San Joaquin Valley,Diabetes Composite,3-5 years,0.129,0.131,0.138
+Kings,San Joaquin Valley,Diabetes Composite,6-10 years,0.319,0.188,0.173
+Kings,San Joaquin Valley,Diabetes Composite,11+ years,0.552,0.648,0.647
+Kings,San Joaquin Valley,Heart Failure,0-2 years,0,0.029,0.039
+Kings,San Joaquin Valley,Heart Failure,3-5 years,0.124,0.127,0.135
+Kings,San Joaquin Valley,Heart Failure,6-10 years,0.286,0.18,0.174
+Kings,San Joaquin Valley,Heart Failure,11+ years,0.59,0.664,0.653
+Kings,San Joaquin Valley,Hypertension,0-2 years,0,0.031,0.039
+Kings,San Joaquin Valley,Hypertension,3-5 years,0.122,0.126,0.135
+Kings,San Joaquin Valley,Hypertension,6-10 years,0.3,0.177,0.174
+Kings,San Joaquin Valley,Hypertension,11+ years,0.579,0.666,0.653
+Kings,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.026,0.035,0.044
+Kings,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.117,0.137,0.144
+Kings,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.271,0.191,0.18
+Kings,San Joaquin Valley,Urinary Tract Infection,11+ years,0.586,0.636,0.632
+Lake,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.226,0.088,0.041
+Lake,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.479,0.227,0.141
+Lake,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.074,0.2,0.175
+Lake,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.221,0.483,0.642
+Lake,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.226,0.086,0.043
+Lake,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.479,0.225,0.141
+Lake,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.074,0.2,0.178
+Lake,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.221,0.487,0.638
+Lake,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.226,0.087,0.041
+Lake,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.479,0.231,0.141
+Lake,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.074,0.199,0.175
+Lake,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.221,0.481,0.642
+Lake,Northern and Sierra,Diabetes Composite,0-2 years,0.213,0.084,0.041
+Lake,Northern and Sierra,Diabetes Composite,3-5 years,0.45,0.233,0.138
+Lake,Northern and Sierra,Diabetes Composite,6-10 years,0.069,0.201,0.173
+Lake,Northern and Sierra,Diabetes Composite,11+ years,0.267,0.481,0.647
+Lake,Northern and Sierra,Heart Failure,0-2 years,0.225,0.077,0.039
+Lake,Northern and Sierra,Heart Failure,3-5 years,0.317,0.227,0.135
+Lake,Northern and Sierra,Heart Failure,6-10 years,0.049,0.192,0.174
+Lake,Northern and Sierra,Heart Failure,11+ years,0.408,0.504,0.653
+Lake,Northern and Sierra,Hypertension,0-2 years,0.225,0.076,0.039
+Lake,Northern and Sierra,Hypertension,3-5 years,0.317,0.226,0.135
+Lake,Northern and Sierra,Hypertension,6-10 years,0.049,0.19,0.174
+Lake,Northern and Sierra,Hypertension,11+ years,0.408,0.507,0.653
+Lake,Northern and Sierra,Urinary Tract Infection,0-2 years,0.193,0.096,0.044
+Lake,Northern and Sierra,Urinary Tract Infection,3-5 years,0.503,0.225,0.144
+Lake,Northern and Sierra,Urinary Tract Infection,6-10 years,0.063,0.189,0.18
+Lake,Northern and Sierra,Urinary Tract Infection,11+ years,0.241,0.488,0.632
+Lassen,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Lassen,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.47,0.227,0.141
+Lassen,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.172,0.2,0.175
+Lassen,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.358,0.483,0.642
+Lassen,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Lassen,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.47,0.225,0.141
+Lassen,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.172,0.2,0.178
+Lassen,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.358,0.487,0.638
+Lassen,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Lassen,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.47,0.231,0.141
+Lassen,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.172,0.199,0.175
+Lassen,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.358,0.481,0.642
+Lassen,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Lassen,Northern and Sierra,Diabetes Composite,3-5 years,0.47,0.233,0.138
+Lassen,Northern and Sierra,Diabetes Composite,6-10 years,0.172,0.201,0.173
+Lassen,Northern and Sierra,Diabetes Composite,11+ years,0.358,0.481,0.647
+Lassen,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Lassen,Northern and Sierra,Heart Failure,3-5 years,0.47,0.227,0.135
+Lassen,Northern and Sierra,Heart Failure,6-10 years,0.172,0.192,0.174
+Lassen,Northern and Sierra,Heart Failure,11+ years,0.358,0.504,0.653
+Lassen,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Lassen,Northern and Sierra,Hypertension,3-5 years,0.47,0.226,0.135
+Lassen,Northern and Sierra,Hypertension,6-10 years,0.172,0.19,0.174
+Lassen,Northern and Sierra,Hypertension,11+ years,0.358,0.507,0.653
+Lassen,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Lassen,Northern and Sierra,Urinary Tract Infection,3-5 years,0.362,0.225,0.144
+Lassen,Northern and Sierra,Urinary Tract Infection,6-10 years,0.362,0.189,0.18
+Lassen,Northern and Sierra,Urinary Tract Infection,11+ years,0.276,0.488,0.632
+Los Angeles,Los Angeles County,Asthma in Younger Adults (Age 18-39),0-2 years,0.036,0.036,0.041
+Los Angeles,Los Angeles County,Asthma in Younger Adults (Age 18-39),3-5 years,0.139,0.139,0.141
+Los Angeles,Los Angeles County,Asthma in Younger Adults (Age 18-39),6-10 years,0.165,0.165,0.175
+Los Angeles,Los Angeles County,Asthma in Younger Adults (Age 18-39),11+ years,0.66,0.66,0.642
+Los Angeles,Los Angeles County,Community-Acquired Pneumonia,0-2 years,0.039,0.039,0.043
+Los Angeles,Los Angeles County,Community-Acquired Pneumonia,3-5 years,0.142,0.142,0.141
+Los Angeles,Los Angeles County,Community-Acquired Pneumonia,6-10 years,0.169,0.169,0.178
+Los Angeles,Los Angeles County,Community-Acquired Pneumonia,11+ years,0.649,0.649,0.638
+Los Angeles,Los Angeles County,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.036,0.036,0.041
+Los Angeles,Los Angeles County,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.138,0.138,0.141
+Los Angeles,Los Angeles County,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.165,0.165,0.175
+Los Angeles,Los Angeles County,COPD or Asthma in Older Adults (Age 40+),11+ years,0.661,0.661,0.642
+Los Angeles,Los Angeles County,Diabetes Composite,0-2 years,0.037,0.037,0.041
+Los Angeles,Los Angeles County,Diabetes Composite,3-5 years,0.137,0.137,0.138
+Los Angeles,Los Angeles County,Diabetes Composite,6-10 years,0.161,0.161,0.173
+Los Angeles,Los Angeles County,Diabetes Composite,11+ years,0.665,0.665,0.647
+Los Angeles,Los Angeles County,Heart Failure,0-2 years,0.034,0.034,0.039
+Los Angeles,Los Angeles County,Heart Failure,3-5 years,0.135,0.135,0.135
+Los Angeles,Los Angeles County,Heart Failure,6-10 years,0.161,0.161,0.174
+Los Angeles,Los Angeles County,Heart Failure,11+ years,0.67,0.67,0.653
+Los Angeles,Los Angeles County,Hypertension,0-2 years,0.034,0.034,0.039
+Los Angeles,Los Angeles County,Hypertension,3-5 years,0.134,0.134,0.135
+Los Angeles,Los Angeles County,Hypertension,6-10 years,0.162,0.162,0.174
+Los Angeles,Los Angeles County,Hypertension,11+ years,0.67,0.67,0.653
+Los Angeles,Los Angeles County,Urinary Tract Infection,0-2 years,0.037,0.037,0.044
+Los Angeles,Los Angeles County,Urinary Tract Infection,3-5 years,0.145,0.145,0.144
+Los Angeles,Los Angeles County,Urinary Tract Infection,6-10 years,0.17,0.17,0.18
+Los Angeles,Los Angeles County,Urinary Tract Infection,11+ years,0.647,0.647,0.632
+Madera,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.05,0.034,0.041
+Madera,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.144,0.137,0.141
+Madera,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.188,0.191,0.175
+Madera,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.618,0.639,0.642
+Madera,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0,0.032,0.043
+Madera,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.11,0.135,0.141
+Madera,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.228,0.191,0.178
+Madera,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.662,0.641,0.638
+Madera,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.05,0.034,0.041
+Madera,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.144,0.137,0.141
+Madera,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.188,0.19,0.175
+Madera,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.618,0.639,0.642
+Madera,San Joaquin Valley,Diabetes Composite,0-2 years,0,0.032,0.041
+Madera,San Joaquin Valley,Diabetes Composite,3-5 years,0.095,0.131,0.138
+Madera,San Joaquin Valley,Diabetes Composite,6-10 years,0.205,0.188,0.173
+Madera,San Joaquin Valley,Diabetes Composite,11+ years,0.7,0.648,0.647
+Madera,San Joaquin Valley,Heart Failure,0-2 years,0,0.029,0.039
+Madera,San Joaquin Valley,Heart Failure,3-5 years,0.116,0.127,0.135
+Madera,San Joaquin Valley,Heart Failure,6-10 years,0.151,0.18,0.174
+Madera,San Joaquin Valley,Heart Failure,11+ years,0.734,0.664,0.653
+Madera,San Joaquin Valley,Hypertension,0-2 years,0,0.031,0.039
+Madera,San Joaquin Valley,Hypertension,3-5 years,0.113,0.126,0.135
+Madera,San Joaquin Valley,Hypertension,6-10 years,0.147,0.177,0.174
+Madera,San Joaquin Valley,Hypertension,11+ years,0.741,0.666,0.653
+Madera,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.051,0.035,0.044
+Madera,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.128,0.137,0.144
+Madera,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.274,0.191,0.18
+Madera,San Joaquin Valley,Urinary Tract Infection,11+ years,0.547,0.636,0.632
+Marin,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.055,0.041,0.041
+Marin,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.201,0.138,0.141
+Marin,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.251,0.169,0.175
+Marin,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.493,0.652,0.642
+Marin,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.072,0.042,0.043
+Marin,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.187,0.137,0.141
+Marin,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.252,0.168,0.178
+Marin,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.489,0.653,0.638
+Marin,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.054,0.041,0.041
+Marin,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.198,0.138,0.141
+Marin,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.251,0.17,0.175
+Marin,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.497,0.652,0.642
+Marin,Greater Bay Area,Diabetes Composite,0-2 years,0.051,0.041,0.041
+Marin,Greater Bay Area,Diabetes Composite,3-5 years,0.202,0.138,0.138
+Marin,Greater Bay Area,Diabetes Composite,6-10 years,0.235,0.166,0.173
+Marin,Greater Bay Area,Diabetes Composite,11+ years,0.512,0.655,0.647
+Marin,Greater Bay Area,Heart Failure,0-2 years,0.051,0.04,0.039
+Marin,Greater Bay Area,Heart Failure,3-5 years,0.214,0.132,0.135
+Marin,Greater Bay Area,Heart Failure,6-10 years,0.232,0.173,0.174
+Marin,Greater Bay Area,Heart Failure,11+ years,0.503,0.655,0.653
+Marin,Greater Bay Area,Hypertension,0-2 years,0.051,0.04,0.039
+Marin,Greater Bay Area,Hypertension,3-5 years,0.209,0.134,0.135
+Marin,Greater Bay Area,Hypertension,6-10 years,0.23,0.174,0.174
+Marin,Greater Bay Area,Hypertension,11+ years,0.51,0.653,0.653
+Marin,Greater Bay Area,Urinary Tract Infection,0-2 years,0.058,0.046,0.044
+Marin,Greater Bay Area,Urinary Tract Infection,3-5 years,0.18,0.139,0.144
+Marin,Greater Bay Area,Urinary Tract Infection,6-10 years,0.231,0.178,0.18
+Marin,Greater Bay Area,Urinary Tract Infection,11+ years,0.532,0.636,0.632
+Mariposa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Mariposa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0,0.227,0.141
+Mariposa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.633,0.2,0.175
+Mariposa,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.367,0.483,0.642
+Mariposa,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Mariposa,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0,0.225,0.141
+Mariposa,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.633,0.2,0.178
+Mariposa,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.367,0.487,0.638
+Mariposa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Mariposa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0,0.231,0.141
+Mariposa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.633,0.199,0.175
+Mariposa,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.367,0.481,0.642
+Mariposa,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Mariposa,Northern and Sierra,Diabetes Composite,3-5 years,0,0.233,0.138
+Mariposa,Northern and Sierra,Diabetes Composite,6-10 years,0.633,0.201,0.173
+Mariposa,Northern and Sierra,Diabetes Composite,11+ years,0.367,0.481,0.647
+Mariposa,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Mariposa,Northern and Sierra,Heart Failure,3-5 years,0,0.227,0.135
+Mariposa,Northern and Sierra,Heart Failure,6-10 years,0.629,0.192,0.174
+Mariposa,Northern and Sierra,Heart Failure,11+ years,0.371,0.504,0.653
+Mariposa,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Mariposa,Northern and Sierra,Hypertension,3-5 years,0,0.226,0.135
+Mariposa,Northern and Sierra,Hypertension,6-10 years,0.629,0.19,0.174
+Mariposa,Northern and Sierra,Hypertension,11+ years,0.371,0.507,0.653
+Mariposa,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Mariposa,Northern and Sierra,Urinary Tract Infection,3-5 years,0,0.225,0.144
+Mariposa,Northern and Sierra,Urinary Tract Infection,6-10 years,0.633,0.189,0.18
+Mariposa,Northern and Sierra,Urinary Tract Infection,11+ years,0.367,0.488,0.632
+Mendocino,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.098,0.088,0.041
+Mendocino,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.294,0.227,0.141
+Mendocino,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.119,0.2,0.175
+Mendocino,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.489,0.483,0.642
+Mendocino,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.098,0.086,0.043
+Mendocino,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.294,0.225,0.141
+Mendocino,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.137,0.2,0.178
+Mendocino,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.471,0.487,0.638
+Mendocino,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.098,0.087,0.041
+Mendocino,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.294,0.231,0.141
+Mendocino,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.119,0.199,0.175
+Mendocino,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.489,0.481,0.642
+Mendocino,Northern and Sierra,Diabetes Composite,0-2 years,0.088,0.084,0.041
+Mendocino,Northern and Sierra,Diabetes Composite,3-5 years,0.323,0.233,0.138
+Mendocino,Northern and Sierra,Diabetes Composite,6-10 years,0.166,0.201,0.173
+Mendocino,Northern and Sierra,Diabetes Composite,11+ years,0.423,0.481,0.647
+Mendocino,Northern and Sierra,Heart Failure,0-2 years,0.07,0.077,0.039
+Mendocino,Northern and Sierra,Heart Failure,3-5 years,0.334,0.227,0.135
+Mendocino,Northern and Sierra,Heart Failure,6-10 years,0.148,0.192,0.174
+Mendocino,Northern and Sierra,Heart Failure,11+ years,0.448,0.504,0.653
+Mendocino,Northern and Sierra,Hypertension,0-2 years,0.07,0.076,0.039
+Mendocino,Northern and Sierra,Hypertension,3-5 years,0.334,0.226,0.135
+Mendocino,Northern and Sierra,Hypertension,6-10 years,0.148,0.19,0.174
+Mendocino,Northern and Sierra,Hypertension,11+ years,0.448,0.507,0.653
+Mendocino,Northern and Sierra,Urinary Tract Infection,0-2 years,0.106,0.096,0.044
+Mendocino,Northern and Sierra,Urinary Tract Infection,3-5 years,0.337,0.225,0.144
+Mendocino,Northern and Sierra,Urinary Tract Infection,6-10 years,0.106,0.189,0.18
+Mendocino,Northern and Sierra,Urinary Tract Infection,11+ years,0.451,0.488,0.632
+Merced,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.027,0.034,0.041
+Merced,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.151,0.137,0.141
+Merced,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.256,0.191,0.175
+Merced,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.566,0.639,0.642
+Merced,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0.026,0.032,0.043
+Merced,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.149,0.135,0.141
+Merced,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.268,0.191,0.178
+Merced,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.557,0.641,0.638
+Merced,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.027,0.034,0.041
+Merced,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.151,0.137,0.141
+Merced,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.256,0.19,0.175
+Merced,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.566,0.639,0.642
+Merced,San Joaquin Valley,Diabetes Composite,0-2 years,0.025,0.032,0.041
+Merced,San Joaquin Valley,Diabetes Composite,3-5 years,0.164,0.131,0.138
+Merced,San Joaquin Valley,Diabetes Composite,6-10 years,0.236,0.188,0.173
+Merced,San Joaquin Valley,Diabetes Composite,11+ years,0.574,0.648,0.647
+Merced,San Joaquin Valley,Heart Failure,0-2 years,0.023,0.029,0.039
+Merced,San Joaquin Valley,Heart Failure,3-5 years,0.132,0.127,0.135
+Merced,San Joaquin Valley,Heart Failure,6-10 years,0.26,0.18,0.174
+Merced,San Joaquin Valley,Heart Failure,11+ years,0.585,0.664,0.653
+Merced,San Joaquin Valley,Hypertension,0-2 years,0.023,0.031,0.039
+Merced,San Joaquin Valley,Hypertension,3-5 years,0.129,0.126,0.135
+Merced,San Joaquin Valley,Hypertension,6-10 years,0.255,0.177,0.174
+Merced,San Joaquin Valley,Hypertension,11+ years,0.593,0.666,0.653
+Merced,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.026,0.035,0.044
+Merced,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.16,0.137,0.144
+Merced,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.243,0.191,0.18
+Merced,San Joaquin Valley,Urinary Tract Infection,11+ years,0.572,0.636,0.632
+Modoc,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Modoc,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.217,0.227,0.141
+Modoc,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0,0.2,0.175
+Modoc,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.783,0.483,0.642
+Modoc,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Modoc,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.217,0.225,0.141
+Modoc,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0,0.2,0.178
+Modoc,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.783,0.487,0.638
+Modoc,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Modoc,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.217,0.231,0.141
+Modoc,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0,0.199,0.175
+Modoc,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.783,0.481,0.642
+Modoc,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Modoc,Northern and Sierra,Diabetes Composite,3-5 years,0.217,0.233,0.138
+Modoc,Northern and Sierra,Diabetes Composite,6-10 years,0,0.201,0.173
+Modoc,Northern and Sierra,Diabetes Composite,11+ years,0.783,0.481,0.647
+Modoc,Northern and Sierra,Heart Failure,0-2 years,0.146,0.077,0.039
+Modoc,Northern and Sierra,Heart Failure,3-5 years,0.241,0.227,0.135
+Modoc,Northern and Sierra,Heart Failure,6-10 years,0,0.192,0.174
+Modoc,Northern and Sierra,Heart Failure,11+ years,0.613,0.504,0.653
+Modoc,Northern and Sierra,Hypertension,0-2 years,0.146,0.076,0.039
+Modoc,Northern and Sierra,Hypertension,3-5 years,0.241,0.226,0.135
+Modoc,Northern and Sierra,Hypertension,6-10 years,0,0.19,0.174
+Modoc,Northern and Sierra,Hypertension,11+ years,0.613,0.507,0.653
+Modoc,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Modoc,Northern and Sierra,Urinary Tract Infection,3-5 years,0.217,0.225,0.144
+Modoc,Northern and Sierra,Urinary Tract Infection,6-10 years,0,0.189,0.18
+Modoc,Northern and Sierra,Urinary Tract Infection,11+ years,0.783,0.488,0.632
+Mono,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.246,0.088,0.041
+Mono,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.246,0.227,0.141
+Mono,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.188,0.2,0.175
+Mono,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.32,0.483,0.642
+Mono,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Mono,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0,0.225,0.141
+Mono,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.541,0.2,0.178
+Mono,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.459,0.487,0.638
+Mono,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.246,0.087,0.041
+Mono,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.246,0.231,0.141
+Mono,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.188,0.199,0.175
+Mono,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.32,0.481,0.642
+Mono,Northern and Sierra,Diabetes Composite,0-2 years,0,0.084,0.041
+Mono,Northern and Sierra,Diabetes Composite,3-5 years,0,0.233,0.138
+Mono,Northern and Sierra,Diabetes Composite,6-10 years,0.371,0.201,0.173
+Mono,Northern and Sierra,Diabetes Composite,11+ years,0.629,0.481,0.647
+Mono,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Mono,Northern and Sierra,Heart Failure,3-5 years,0.15,0.227,0.135
+Mono,Northern and Sierra,Heart Failure,6-10 years,0.202,0.192,0.174
+Mono,Northern and Sierra,Heart Failure,11+ years,0.648,0.504,0.653
+Mono,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Mono,Northern and Sierra,Hypertension,3-5 years,0.15,0.226,0.135
+Mono,Northern and Sierra,Hypertension,6-10 years,0.202,0.19,0.174
+Mono,Northern and Sierra,Hypertension,11+ years,0.648,0.507,0.653
+Mono,Northern and Sierra,Urinary Tract Infection,0-2 years,0,0.096,0.044
+Mono,Northern and Sierra,Urinary Tract Infection,3-5 years,0.444,0.225,0.144
+Mono,Northern and Sierra,Urinary Tract Infection,6-10 years,0.206,0.189,0.18
+Mono,Northern and Sierra,Urinary Tract Infection,11+ years,0.35,0.488,0.632
+Monterey,Central Coast,Asthma in Younger Adults (Age 18-39),0-2 years,0.112,0.057,0.041
+Monterey,Central Coast,Asthma in Younger Adults (Age 18-39),3-5 years,0.174,0.197,0.141
+Monterey,Central Coast,Asthma in Younger Adults (Age 18-39),6-10 years,0.207,0.173,0.175
+Monterey,Central Coast,Asthma in Younger Adults (Age 18-39),11+ years,0.507,0.573,0.642
+Monterey,Central Coast,Community-Acquired Pneumonia,0-2 years,0.112,0.057,0.043
+Monterey,Central Coast,Community-Acquired Pneumonia,3-5 years,0.167,0.185,0.141
+Monterey,Central Coast,Community-Acquired Pneumonia,6-10 years,0.201,0.182,0.178
+Monterey,Central Coast,Community-Acquired Pneumonia,11+ years,0.52,0.576,0.638
+Monterey,Central Coast,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.111,0.057,0.041
+Monterey,Central Coast,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.172,0.195,0.141
+Monterey,Central Coast,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.204,0.174,0.175
+Monterey,Central Coast,COPD or Asthma in Older Adults (Age 40+),11+ years,0.512,0.574,0.642
+Monterey,Central Coast,Diabetes Composite,0-2 years,0.1,0.052,0.041
+Monterey,Central Coast,Diabetes Composite,3-5 years,0.15,0.175,0.138
+Monterey,Central Coast,Diabetes Composite,6-10 years,0.211,0.189,0.173
+Monterey,Central Coast,Diabetes Composite,11+ years,0.539,0.585,0.647
+Monterey,Central Coast,Heart Failure,0-2 years,0.094,0.05,0.039
+Monterey,Central Coast,Heart Failure,3-5 years,0.147,0.17,0.135
+Monterey,Central Coast,Heart Failure,6-10 years,0.192,0.196,0.174
+Monterey,Central Coast,Heart Failure,11+ years,0.568,0.584,0.653
+Monterey,Central Coast,Hypertension,0-2 years,0.089,0.048,0.039
+Monterey,Central Coast,Hypertension,3-5 years,0.147,0.169,0.135
+Monterey,Central Coast,Hypertension,6-10 years,0.189,0.196,0.174
+Monterey,Central Coast,Hypertension,11+ years,0.574,0.587,0.653
+Monterey,Central Coast,Urinary Tract Infection,0-2 years,0.095,0.058,0.044
+Monterey,Central Coast,Urinary Tract Infection,3-5 years,0.176,0.194,0.144
+Monterey,Central Coast,Urinary Tract Infection,6-10 years,0.188,0.178,0.18
+Monterey,Central Coast,Urinary Tract Infection,11+ years,0.541,0.57,0.632
+Napa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.078,0.041,0.041
+Napa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.183,0.138,0.141
+Napa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.289,0.169,0.175
+Napa,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.45,0.652,0.642
+Napa,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.084,0.042,0.043
+Napa,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.176,0.137,0.141
+Napa,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.277,0.168,0.178
+Napa,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.462,0.653,0.638
+Napa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.078,0.041,0.041
+Napa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.183,0.138,0.141
+Napa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.289,0.17,0.175
+Napa,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.45,0.652,0.642
+Napa,Greater Bay Area,Diabetes Composite,0-2 years,0.096,0.041,0.041
+Napa,Greater Bay Area,Diabetes Composite,3-5 years,0.174,0.138,0.138
+Napa,Greater Bay Area,Diabetes Composite,6-10 years,0.276,0.166,0.173
+Napa,Greater Bay Area,Diabetes Composite,11+ years,0.454,0.655,0.647
+Napa,Greater Bay Area,Heart Failure,0-2 years,0.082,0.04,0.039
+Napa,Greater Bay Area,Heart Failure,3-5 years,0.199,0.132,0.135
+Napa,Greater Bay Area,Heart Failure,6-10 years,0.229,0.173,0.174
+Napa,Greater Bay Area,Heart Failure,11+ years,0.49,0.655,0.653
+Napa,Greater Bay Area,Hypertension,0-2 years,0.083,0.04,0.039
+Napa,Greater Bay Area,Hypertension,3-5 years,0.201,0.134,0.135
+Napa,Greater Bay Area,Hypertension,6-10 years,0.248,0.174,0.174
+Napa,Greater Bay Area,Hypertension,11+ years,0.468,0.653,0.653
+Napa,Greater Bay Area,Urinary Tract Infection,0-2 years,0.075,0.046,0.044
+Napa,Greater Bay Area,Urinary Tract Infection,3-5 years,0.193,0.139,0.144
+Napa,Greater Bay Area,Urinary Tract Infection,6-10 years,0.265,0.178,0.18
+Napa,Greater Bay Area,Urinary Tract Infection,11+ years,0.468,0.636,0.632
+Nevada,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0,0.088,0.041
+Nevada,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.213,0.227,0.141
+Nevada,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.192,0.2,0.175
+Nevada,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.595,0.483,0.642
+Nevada,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0,0.086,0.043
+Nevada,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.202,0.225,0.141
+Nevada,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.209,0.2,0.178
+Nevada,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.589,0.487,0.638
+Nevada,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0,0.087,0.041
+Nevada,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.213,0.231,0.141
+Nevada,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.192,0.199,0.175
+Nevada,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.595,0.481,0.642
+Nevada,Northern and Sierra,Diabetes Composite,0-2 years,0.028,0.084,0.041
+Nevada,Northern and Sierra,Diabetes Composite,3-5 years,0.231,0.233,0.138
+Nevada,Northern and Sierra,Diabetes Composite,6-10 years,0.181,0.201,0.173
+Nevada,Northern and Sierra,Diabetes Composite,11+ years,0.56,0.481,0.647
+Nevada,Northern and Sierra,Heart Failure,0-2 years,0.022,0.077,0.039
+Nevada,Northern and Sierra,Heart Failure,3-5 years,0.216,0.227,0.135
+Nevada,Northern and Sierra,Heart Failure,6-10 years,0.191,0.192,0.174
+Nevada,Northern and Sierra,Heart Failure,11+ years,0.571,0.504,0.653
+Nevada,Northern and Sierra,Hypertension,0-2 years,0.022,0.076,0.039
+Nevada,Northern and Sierra,Hypertension,3-5 years,0.221,0.226,0.135
+Nevada,Northern and Sierra,Hypertension,6-10 years,0.173,0.19,0.174
+Nevada,Northern and Sierra,Hypertension,11+ years,0.584,0.507,0.653
+Nevada,Northern and Sierra,Urinary Tract Infection,0-2 years,0.026,0.096,0.044
+Nevada,Northern and Sierra,Urinary Tract Infection,3-5 years,0.198,0.225,0.144
+Nevada,Northern and Sierra,Urinary Tract Infection,6-10 years,0.212,0.189,0.18
+Nevada,Northern and Sierra,Urinary Tract Infection,11+ years,0.564,0.488,0.632
+Orange,Orange County,Asthma in Younger Adults (Age 18-39),0-2 years,0.036,0.036,0.041
+Orange,Orange County,Asthma in Younger Adults (Age 18-39),3-5 years,0.139,0.139,0.141
+Orange,Orange County,Asthma in Younger Adults (Age 18-39),6-10 years,0.207,0.207,0.175
+Orange,Orange County,Asthma in Younger Adults (Age 18-39),11+ years,0.618,0.618,0.642
+Orange,Orange County,Community-Acquired Pneumonia,0-2 years,0.041,0.041,0.043
+Orange,Orange County,Community-Acquired Pneumonia,3-5 years,0.141,0.141,0.141
+Orange,Orange County,Community-Acquired Pneumonia,6-10 years,0.21,0.21,0.178
+Orange,Orange County,Community-Acquired Pneumonia,11+ years,0.608,0.608,0.638
+Orange,Orange County,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.038,0.038,0.041
+Orange,Orange County,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.138,0.138,0.141
+Orange,Orange County,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.207,0.207,0.175
+Orange,Orange County,COPD or Asthma in Older Adults (Age 40+),11+ years,0.618,0.618,0.642
+Orange,Orange County,Diabetes Composite,0-2 years,0.042,0.042,0.041
+Orange,Orange County,Diabetes Composite,3-5 years,0.145,0.145,0.138
+Orange,Orange County,Diabetes Composite,6-10 years,0.194,0.194,0.173
+Orange,Orange County,Diabetes Composite,11+ years,0.618,0.618,0.647
+Orange,Orange County,Heart Failure,0-2 years,0.039,0.039,0.039
+Orange,Orange County,Heart Failure,3-5 years,0.141,0.141,0.135
+Orange,Orange County,Heart Failure,6-10 years,0.199,0.199,0.174
+Orange,Orange County,Heart Failure,11+ years,0.621,0.621,0.653
+Orange,Orange County,Hypertension,0-2 years,0.04,0.04,0.039
+Orange,Orange County,Hypertension,3-5 years,0.142,0.142,0.135
+Orange,Orange County,Hypertension,6-10 years,0.195,0.195,0.174
+Orange,Orange County,Hypertension,11+ years,0.623,0.623,0.653
+Orange,Orange County,Urinary Tract Infection,0-2 years,0.038,0.038,0.044
+Orange,Orange County,Urinary Tract Infection,3-5 years,0.149,0.149,0.144
+Orange,Orange County,Urinary Tract Infection,6-10 years,0.214,0.214,0.18
+Orange,Orange County,Urinary Tract Infection,11+ years,0.599,0.599,0.632
+Placer,Sacramento Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.027,0.048,0.041
+Placer,Sacramento Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.13,0.122,0.141
+Placer,Sacramento Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.191,0.171,0.175
+Placer,Sacramento Area,Asthma in Younger Adults (Age 18-39),11+ years,0.652,0.659,0.642
+Placer,Sacramento Area,Community-Acquired Pneumonia,0-2 years,0.025,0.046,0.043
+Placer,Sacramento Area,Community-Acquired Pneumonia,3-5 years,0.146,0.12,0.141
+Placer,Sacramento Area,Community-Acquired Pneumonia,6-10 years,0.173,0.165,0.178
+Placer,Sacramento Area,Community-Acquired Pneumonia,11+ years,0.656,0.668,0.638
+Placer,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.027,0.049,0.041
+Placer,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.13,0.122,0.141
+Placer,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.191,0.171,0.175
+Placer,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.652,0.658,0.642
+Placer,Sacramento Area,Diabetes Composite,0-2 years,0.031,0.047,0.041
+Placer,Sacramento Area,Diabetes Composite,3-5 years,0.134,0.115,0.138
+Placer,Sacramento Area,Diabetes Composite,6-10 years,0.186,0.169,0.173
+Placer,Sacramento Area,Diabetes Composite,11+ years,0.649,0.67,0.647
+Placer,Sacramento Area,Heart Failure,0-2 years,0.032,0.043,0.039
+Placer,Sacramento Area,Heart Failure,3-5 years,0.141,0.114,0.135
+Placer,Sacramento Area,Heart Failure,6-10 years,0.195,0.168,0.174
+Placer,Sacramento Area,Heart Failure,11+ years,0.632,0.675,0.653
+Placer,Sacramento Area,Hypertension,0-2 years,0.032,0.043,0.039
+Placer,Sacramento Area,Hypertension,3-5 years,0.142,0.114,0.135
+Placer,Sacramento Area,Hypertension,6-10 years,0.194,0.167,0.174
+Placer,Sacramento Area,Hypertension,11+ years,0.632,0.677,0.653
+Placer,Sacramento Area,Urinary Tract Infection,0-2 years,0.029,0.054,0.044
+Placer,Sacramento Area,Urinary Tract Infection,3-5 years,0.141,0.122,0.144
+Placer,Sacramento Area,Urinary Tract Infection,6-10 years,0.179,0.169,0.18
+Placer,Sacramento Area,Urinary Tract Infection,11+ years,0.651,0.655,0.632
+Plumas,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.159,0.088,0.041
+Plumas,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0,0.227,0.141
+Plumas,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.367,0.2,0.175
+Plumas,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.474,0.483,0.642
+Plumas,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.159,0.086,0.043
+Plumas,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0,0.225,0.141
+Plumas,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.367,0.2,0.178
+Plumas,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.474,0.487,0.638
+Plumas,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.159,0.087,0.041
+Plumas,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0,0.231,0.141
+Plumas,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.367,0.199,0.175
+Plumas,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.474,0.481,0.642
+Plumas,Northern and Sierra,Diabetes Composite,0-2 years,0.159,0.084,0.041
+Plumas,Northern and Sierra,Diabetes Composite,3-5 years,0,0.233,0.138
+Plumas,Northern and Sierra,Diabetes Composite,6-10 years,0.367,0.201,0.173
+Plumas,Northern and Sierra,Diabetes Composite,11+ years,0.474,0.481,0.647
+Plumas,Northern and Sierra,Heart Failure,0-2 years,0.112,0.077,0.039
+Plumas,Northern and Sierra,Heart Failure,3-5 years,0.113,0.227,0.135
+Plumas,Northern and Sierra,Heart Failure,6-10 years,0.26,0.192,0.174
+Plumas,Northern and Sierra,Heart Failure,11+ years,0.514,0.504,0.653
+Plumas,Northern and Sierra,Hypertension,0-2 years,0.112,0.076,0.039
+Plumas,Northern and Sierra,Hypertension,3-5 years,0.113,0.226,0.135
+Plumas,Northern and Sierra,Hypertension,6-10 years,0.26,0.19,0.174
+Plumas,Northern and Sierra,Hypertension,11+ years,0.514,0.507,0.653
+Plumas,Northern and Sierra,Urinary Tract Infection,0-2 years,0.159,0.096,0.044
+Plumas,Northern and Sierra,Urinary Tract Infection,3-5 years,0,0.225,0.144
+Plumas,Northern and Sierra,Urinary Tract Infection,6-10 years,0.367,0.189,0.18
+Plumas,Northern and Sierra,Urinary Tract Infection,11+ years,0.474,0.488,0.632
+Riverside,Inland Empire,Asthma in Younger Adults (Age 18-39),0-2 years,0.036,0.034,0.041
+Riverside,Inland Empire,Asthma in Younger Adults (Age 18-39),3-5 years,0.134,0.123,0.141
+Riverside,Inland Empire,Asthma in Younger Adults (Age 18-39),6-10 years,0.194,0.175,0.175
+Riverside,Inland Empire,Asthma in Younger Adults (Age 18-39),11+ years,0.636,0.668,0.642
+Riverside,Inland Empire,Community-Acquired Pneumonia,0-2 years,0.038,0.035,0.043
+Riverside,Inland Empire,Community-Acquired Pneumonia,3-5 years,0.131,0.124,0.141
+Riverside,Inland Empire,Community-Acquired Pneumonia,6-10 years,0.203,0.182,0.178
+Riverside,Inland Empire,Community-Acquired Pneumonia,11+ years,0.628,0.659,0.638
+Riverside,Inland Empire,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.036,0.034,0.041
+Riverside,Inland Empire,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.134,0.125,0.141
+Riverside,Inland Empire,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.194,0.174,0.175
+Riverside,Inland Empire,COPD or Asthma in Older Adults (Age 40+),11+ years,0.636,0.668,0.642
+Riverside,Inland Empire,Diabetes Composite,0-2 years,0.034,0.033,0.041
+Riverside,Inland Empire,Diabetes Composite,3-5 years,0.135,0.12,0.138
+Riverside,Inland Empire,Diabetes Composite,6-10 years,0.185,0.173,0.173
+Riverside,Inland Empire,Diabetes Composite,11+ years,0.647,0.674,0.647
+Riverside,Inland Empire,Heart Failure,0-2 years,0.04,0.034,0.039
+Riverside,Inland Empire,Heart Failure,3-5 years,0.127,0.118,0.135
+Riverside,Inland Empire,Heart Failure,6-10 years,0.18,0.169,0.174
+Riverside,Inland Empire,Heart Failure,11+ years,0.653,0.679,0.653
+Riverside,Inland Empire,Hypertension,0-2 years,0.039,0.034,0.039
+Riverside,Inland Empire,Hypertension,3-5 years,0.128,0.118,0.135
+Riverside,Inland Empire,Hypertension,6-10 years,0.177,0.168,0.174
+Riverside,Inland Empire,Hypertension,11+ years,0.656,0.68,0.653
+Riverside,Inland Empire,Urinary Tract Infection,0-2 years,0.036,0.033,0.044
+Riverside,Inland Empire,Urinary Tract Infection,3-5 years,0.127,0.121,0.144
+Riverside,Inland Empire,Urinary Tract Infection,6-10 years,0.192,0.174,0.18
+Riverside,Inland Empire,Urinary Tract Infection,11+ years,0.645,0.671,0.632
+Sacramento,Sacramento Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.046,0.048,0.041
+Sacramento,Sacramento Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.11,0.122,0.141
+Sacramento,Sacramento Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.159,0.171,0.175
+Sacramento,Sacramento Area,Asthma in Younger Adults (Age 18-39),11+ years,0.685,0.659,0.642
+Sacramento,Sacramento Area,Community-Acquired Pneumonia,0-2 years,0.043,0.046,0.043
+Sacramento,Sacramento Area,Community-Acquired Pneumonia,3-5 years,0.106,0.12,0.141
+Sacramento,Sacramento Area,Community-Acquired Pneumonia,6-10 years,0.156,0.165,0.178
+Sacramento,Sacramento Area,Community-Acquired Pneumonia,11+ years,0.695,0.668,0.638
+Sacramento,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.047,0.049,0.041
+Sacramento,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.11,0.122,0.141
+Sacramento,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.158,0.171,0.175
+Sacramento,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.684,0.658,0.642
+Sacramento,Sacramento Area,Diabetes Composite,0-2 years,0.043,0.047,0.041
+Sacramento,Sacramento Area,Diabetes Composite,3-5 years,0.102,0.115,0.138
+Sacramento,Sacramento Area,Diabetes Composite,6-10 years,0.158,0.169,0.173
+Sacramento,Sacramento Area,Diabetes Composite,11+ years,0.696,0.67,0.647
+Sacramento,Sacramento Area,Heart Failure,0-2 years,0.039,0.043,0.039
+Sacramento,Sacramento Area,Heart Failure,3-5 years,0.096,0.114,0.135
+Sacramento,Sacramento Area,Heart Failure,6-10 years,0.151,0.168,0.174
+Sacramento,Sacramento Area,Heart Failure,11+ years,0.715,0.675,0.653
+Sacramento,Sacramento Area,Hypertension,0-2 years,0.039,0.043,0.039
+Sacramento,Sacramento Area,Hypertension,3-5 years,0.096,0.114,0.135
+Sacramento,Sacramento Area,Hypertension,6-10 years,0.149,0.167,0.174
+Sacramento,Sacramento Area,Hypertension,11+ years,0.715,0.677,0.653
+Sacramento,Sacramento Area,Urinary Tract Infection,0-2 years,0.054,0.054,0.044
+Sacramento,Sacramento Area,Urinary Tract Infection,3-5 years,0.11,0.122,0.144
+Sacramento,Sacramento Area,Urinary Tract Infection,6-10 years,0.159,0.169,0.18
+Sacramento,Sacramento Area,Urinary Tract Infection,11+ years,0.677,0.655,0.632
+San Benito,Central Coast,Asthma in Younger Adults (Age 18-39),0-2 years,0.2,0.057,0.041
+San Benito,Central Coast,Asthma in Younger Adults (Age 18-39),3-5 years,0.125,0.197,0.141
+San Benito,Central Coast,Asthma in Younger Adults (Age 18-39),6-10 years,0.125,0.173,0.175
+San Benito,Central Coast,Asthma in Younger Adults (Age 18-39),11+ years,0.55,0.573,0.642
+San Benito,Central Coast,Community-Acquired Pneumonia,0-2 years,0.2,0.057,0.043
+San Benito,Central Coast,Community-Acquired Pneumonia,3-5 years,0.125,0.185,0.141
+San Benito,Central Coast,Community-Acquired Pneumonia,6-10 years,0.125,0.182,0.178
+San Benito,Central Coast,Community-Acquired Pneumonia,11+ years,0.55,0.576,0.638
+San Benito,Central Coast,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.2,0.057,0.041
+San Benito,Central Coast,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.125,0.195,0.141
+San Benito,Central Coast,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.125,0.174,0.175
+San Benito,Central Coast,COPD or Asthma in Older Adults (Age 40+),11+ years,0.55,0.574,0.642
+San Benito,Central Coast,Diabetes Composite,0-2 years,0.147,0.052,0.041
+San Benito,Central Coast,Diabetes Composite,3-5 years,0.184,0.175,0.138
+San Benito,Central Coast,Diabetes Composite,6-10 years,0.092,0.189,0.173
+San Benito,Central Coast,Diabetes Composite,11+ years,0.577,0.585,0.647
+San Benito,Central Coast,Heart Failure,0-2 years,0.134,0.05,0.039
+San Benito,Central Coast,Heart Failure,3-5 years,0.084,0.17,0.135
+San Benito,Central Coast,Heart Failure,6-10 years,0.084,0.196,0.174
+San Benito,Central Coast,Heart Failure,11+ years,0.697,0.584,0.653
+San Benito,Central Coast,Hypertension,0-2 years,0.134,0.048,0.039
+San Benito,Central Coast,Hypertension,3-5 years,0.084,0.169,0.135
+San Benito,Central Coast,Hypertension,6-10 years,0.084,0.196,0.174
+San Benito,Central Coast,Hypertension,11+ years,0.697,0.587,0.653
+San Benito,Central Coast,Urinary Tract Infection,0-2 years,0.131,0.058,0.044
+San Benito,Central Coast,Urinary Tract Infection,3-5 years,0.213,0.194,0.144
+San Benito,Central Coast,Urinary Tract Infection,6-10 years,0.082,0.178,0.18
+San Benito,Central Coast,Urinary Tract Infection,11+ years,0.574,0.57,0.632
+San Bernardino,Inland Empire,Asthma in Younger Adults (Age 18-39),0-2 years,0.031,0.034,0.041
+San Bernardino,Inland Empire,Asthma in Younger Adults (Age 18-39),3-5 years,0.113,0.123,0.141
+San Bernardino,Inland Empire,Asthma in Younger Adults (Age 18-39),6-10 years,0.156,0.175,0.175
+San Bernardino,Inland Empire,Asthma in Younger Adults (Age 18-39),11+ years,0.699,0.668,0.642
+San Bernardino,Inland Empire,Community-Acquired Pneumonia,0-2 years,0.032,0.035,0.043
+San Bernardino,Inland Empire,Community-Acquired Pneumonia,3-5 years,0.116,0.124,0.141
+San Bernardino,Inland Empire,Community-Acquired Pneumonia,6-10 years,0.161,0.182,0.178
+San Bernardino,Inland Empire,Community-Acquired Pneumonia,11+ years,0.691,0.659,0.638
+San Bernardino,Inland Empire,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.032,0.034,0.041
+San Bernardino,Inland Empire,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.116,0.125,0.141
+San Bernardino,Inland Empire,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.154,0.174,0.175
+San Bernardino,Inland Empire,COPD or Asthma in Older Adults (Age 40+),11+ years,0.699,0.668,0.642
+San Bernardino,Inland Empire,Diabetes Composite,0-2 years,0.033,0.033,0.041
+San Bernardino,Inland Empire,Diabetes Composite,3-5 years,0.106,0.12,0.138
+San Bernardino,Inland Empire,Diabetes Composite,6-10 years,0.161,0.173,0.173
+San Bernardino,Inland Empire,Diabetes Composite,11+ years,0.701,0.674,0.647
+San Bernardino,Inland Empire,Heart Failure,0-2 years,0.027,0.034,0.039
+San Bernardino,Inland Empire,Heart Failure,3-5 years,0.109,0.118,0.135
+San Bernardino,Inland Empire,Heart Failure,6-10 years,0.157,0.169,0.174
+San Bernardino,Inland Empire,Heart Failure,11+ years,0.706,0.679,0.653
+San Bernardino,Inland Empire,Hypertension,0-2 years,0.028,0.034,0.039
+San Bernardino,Inland Empire,Hypertension,3-5 years,0.109,0.118,0.135
+San Bernardino,Inland Empire,Hypertension,6-10 years,0.159,0.168,0.174
+San Bernardino,Inland Empire,Hypertension,11+ years,0.704,0.68,0.653
+San Bernardino,Inland Empire,Urinary Tract Infection,0-2 years,0.031,0.033,0.044
+San Bernardino,Inland Empire,Urinary Tract Infection,3-5 years,0.116,0.121,0.144
+San Bernardino,Inland Empire,Urinary Tract Infection,6-10 years,0.157,0.174,0.18
+San Bernardino,Inland Empire,Urinary Tract Infection,11+ years,0.697,0.671,0.632
+San Diego,San Diego Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.05,0.049,0.041
+San Diego,San Diego Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.139,0.139,0.141
+San Diego,San Diego Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.174,0.175,0.175
+San Diego,San Diego Area,Asthma in Younger Adults (Age 18-39),11+ years,0.637,0.636,0.642
+San Diego,San Diego Area,Community-Acquired Pneumonia,0-2 years,0.051,0.051,0.043
+San Diego,San Diego Area,Community-Acquired Pneumonia,3-5 years,0.14,0.141,0.141
+San Diego,San Diego Area,Community-Acquired Pneumonia,6-10 years,0.179,0.18,0.178
+San Diego,San Diego Area,Community-Acquired Pneumonia,11+ years,0.63,0.629,0.638
+San Diego,San Diego Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.051,0.051,0.041
+San Diego,San Diego Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.14,0.14,0.141
+San Diego,San Diego Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.174,0.175,0.175
+San Diego,San Diego Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.635,0.634,0.642
+San Diego,San Diego Area,Diabetes Composite,0-2 years,0.05,0.05,0.041
+San Diego,San Diego Area,Diabetes Composite,3-5 years,0.135,0.135,0.138
+San Diego,San Diego Area,Diabetes Composite,6-10 years,0.175,0.176,0.173
+San Diego,San Diego Area,Diabetes Composite,11+ years,0.64,0.639,0.647
+San Diego,San Diego Area,Heart Failure,0-2 years,0.043,0.042,0.039
+San Diego,San Diego Area,Heart Failure,3-5 years,0.13,0.13,0.135
+San Diego,San Diego Area,Heart Failure,6-10 years,0.171,0.172,0.174
+San Diego,San Diego Area,Heart Failure,11+ years,0.656,0.656,0.653
+San Diego,San Diego Area,Hypertension,0-2 years,0.044,0.044,0.039
+San Diego,San Diego Area,Hypertension,3-5 years,0.127,0.127,0.135
+San Diego,San Diego Area,Hypertension,6-10 years,0.174,0.175,0.174
+San Diego,San Diego Area,Hypertension,11+ years,0.655,0.654,0.653
+San Diego,San Diego Area,Urinary Tract Infection,0-2 years,0.05,0.049,0.044
+San Diego,San Diego Area,Urinary Tract Infection,3-5 years,0.143,0.143,0.144
+San Diego,San Diego Area,Urinary Tract Infection,6-10 years,0.178,0.18,0.18
+San Diego,San Diego Area,Urinary Tract Infection,11+ years,0.629,0.628,0.632
+San Francisco,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.026,0.041,0.041
+San Francisco,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.112,0.138,0.141
+San Francisco,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.138,0.169,0.175
+San Francisco,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.724,0.652,0.642
+San Francisco,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.028,0.042,0.043
+San Francisco,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.109,0.137,0.141
+San Francisco,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.137,0.168,0.178
+San Francisco,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.726,0.653,0.638
+San Francisco,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.025,0.041,0.041
+San Francisco,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.112,0.138,0.141
+San Francisco,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.139,0.17,0.175
+San Francisco,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.724,0.652,0.642
+San Francisco,Greater Bay Area,Diabetes Composite,0-2 years,0.026,0.041,0.041
+San Francisco,Greater Bay Area,Diabetes Composite,3-5 years,0.112,0.138,0.138
+San Francisco,Greater Bay Area,Diabetes Composite,6-10 years,0.133,0.166,0.173
+San Francisco,Greater Bay Area,Diabetes Composite,11+ years,0.73,0.655,0.647
+San Francisco,Greater Bay Area,Heart Failure,0-2 years,0.027,0.04,0.039
+San Francisco,Greater Bay Area,Heart Failure,3-5 years,0.107,0.132,0.135
+San Francisco,Greater Bay Area,Heart Failure,6-10 years,0.147,0.173,0.174
+San Francisco,Greater Bay Area,Heart Failure,11+ years,0.719,0.655,0.653
+San Francisco,Greater Bay Area,Hypertension,0-2 years,0.027,0.04,0.039
+San Francisco,Greater Bay Area,Hypertension,3-5 years,0.109,0.134,0.135
+San Francisco,Greater Bay Area,Hypertension,6-10 years,0.151,0.174,0.174
+San Francisco,Greater Bay Area,Hypertension,11+ years,0.713,0.653,0.653
+San Francisco,Greater Bay Area,Urinary Tract Infection,0-2 years,0.032,0.046,0.044
+San Francisco,Greater Bay Area,Urinary Tract Infection,3-5 years,0.117,0.139,0.144
+San Francisco,Greater Bay Area,Urinary Tract Infection,6-10 years,0.154,0.178,0.18
+San Francisco,Greater Bay Area,Urinary Tract Infection,11+ years,0.697,0.636,0.632
+San Joaquin,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.026,0.034,0.041
+San Joaquin,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.129,0.137,0.141
+San Joaquin,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.233,0.191,0.175
+San Joaquin,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.612,0.639,0.642
+San Joaquin,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0.025,0.032,0.043
+San Joaquin,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.14,0.135,0.141
+San Joaquin,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.235,0.191,0.178
+San Joaquin,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.601,0.641,0.638
+San Joaquin,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.026,0.034,0.041
+San Joaquin,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.133,0.137,0.141
+San Joaquin,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.234,0.19,0.175
+San Joaquin,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.607,0.639,0.642
+San Joaquin,San Joaquin Valley,Diabetes Composite,0-2 years,0.023,0.032,0.041
+San Joaquin,San Joaquin Valley,Diabetes Composite,3-5 years,0.152,0.131,0.138
+San Joaquin,San Joaquin Valley,Diabetes Composite,6-10 years,0.21,0.188,0.173
+San Joaquin,San Joaquin Valley,Diabetes Composite,11+ years,0.615,0.648,0.647
+San Joaquin,San Joaquin Valley,Heart Failure,0-2 years,0.023,0.029,0.039
+San Joaquin,San Joaquin Valley,Heart Failure,3-5 years,0.126,0.127,0.135
+San Joaquin,San Joaquin Valley,Heart Failure,6-10 years,0.223,0.18,0.174
+San Joaquin,San Joaquin Valley,Heart Failure,11+ years,0.628,0.664,0.653
+San Joaquin,San Joaquin Valley,Hypertension,0-2 years,0.026,0.031,0.039
+San Joaquin,San Joaquin Valley,Hypertension,3-5 years,0.133,0.126,0.135
+San Joaquin,San Joaquin Valley,Hypertension,6-10 years,0.206,0.177,0.174
+San Joaquin,San Joaquin Valley,Hypertension,11+ years,0.635,0.666,0.653
+San Joaquin,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.033,0.035,0.044
+San Joaquin,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.127,0.137,0.144
+San Joaquin,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.224,0.191,0.18
+San Joaquin,San Joaquin Valley,Urinary Tract Infection,11+ years,0.616,0.636,0.632
+San Luis Obispo,Central Coast,Asthma in Younger Adults (Age 18-39),0-2 years,0.029,0.057,0.041
+San Luis Obispo,Central Coast,Asthma in Younger Adults (Age 18-39),3-5 years,0.258,0.197,0.141
+San Luis Obispo,Central Coast,Asthma in Younger Adults (Age 18-39),6-10 years,0.206,0.173,0.175
+San Luis Obispo,Central Coast,Asthma in Younger Adults (Age 18-39),11+ years,0.506,0.573,0.642
+San Luis Obispo,Central Coast,Community-Acquired Pneumonia,0-2 years,0.02,0.057,0.043
+San Luis Obispo,Central Coast,Community-Acquired Pneumonia,3-5 years,0.257,0.185,0.141
+San Luis Obispo,Central Coast,Community-Acquired Pneumonia,6-10 years,0.227,0.182,0.178
+San Luis Obispo,Central Coast,Community-Acquired Pneumonia,11+ years,0.496,0.576,0.638
+San Luis Obispo,Central Coast,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.028,0.057,0.041
+San Luis Obispo,Central Coast,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.25,0.195,0.141
+San Luis Obispo,Central Coast,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.217,0.174,0.175
+San Luis Obispo,Central Coast,COPD or Asthma in Older Adults (Age 40+),11+ years,0.504,0.574,0.642
+San Luis Obispo,Central Coast,Diabetes Composite,0-2 years,0.026,0.052,0.041
+San Luis Obispo,Central Coast,Diabetes Composite,3-5 years,0.235,0.175,0.138
+San Luis Obispo,Central Coast,Diabetes Composite,6-10 years,0.219,0.189,0.173
+San Luis Obispo,Central Coast,Diabetes Composite,11+ years,0.52,0.585,0.647
+San Luis Obispo,Central Coast,Heart Failure,0-2 years,0.026,0.05,0.039
+San Luis Obispo,Central Coast,Heart Failure,3-5 years,0.213,0.17,0.135
+San Luis Obispo,Central Coast,Heart Failure,6-10 years,0.261,0.196,0.174
+San Luis Obispo,Central Coast,Heart Failure,11+ years,0.5,0.584,0.653
+San Luis Obispo,Central Coast,Hypertension,0-2 years,0.026,0.048,0.039
+San Luis Obispo,Central Coast,Hypertension,3-5 years,0.209,0.169,0.135
+San Luis Obispo,Central Coast,Hypertension,6-10 years,0.256,0.196,0.174
+San Luis Obispo,Central Coast,Hypertension,11+ years,0.508,0.587,0.653
+San Luis Obispo,Central Coast,Urinary Tract Infection,0-2 years,0.028,0.058,0.044
+San Luis Obispo,Central Coast,Urinary Tract Infection,3-5 years,0.261,0.194,0.144
+San Luis Obispo,Central Coast,Urinary Tract Infection,6-10 years,0.209,0.178,0.18
+San Luis Obispo,Central Coast,Urinary Tract Infection,11+ years,0.502,0.57,0.632
+San Mateo,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.034,0.041,0.041
+San Mateo,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.123,0.138,0.141
+San Mateo,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.186,0.169,0.175
+San Mateo,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.657,0.652,0.642
+San Mateo,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.033,0.042,0.043
+San Mateo,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.119,0.137,0.141
+San Mateo,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.179,0.168,0.178
+San Mateo,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.669,0.653,0.638
+San Mateo,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.034,0.041,0.041
+San Mateo,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.121,0.138,0.141
+San Mateo,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.187,0.17,0.175
+San Mateo,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.658,0.652,0.642
+San Mateo,Greater Bay Area,Diabetes Composite,0-2 years,0.032,0.041,0.041
+San Mateo,Greater Bay Area,Diabetes Composite,3-5 years,0.124,0.138,0.138
+San Mateo,Greater Bay Area,Diabetes Composite,6-10 years,0.178,0.166,0.173
+San Mateo,Greater Bay Area,Diabetes Composite,11+ years,0.666,0.655,0.647
+San Mateo,Greater Bay Area,Heart Failure,0-2 years,0.023,0.04,0.039
+San Mateo,Greater Bay Area,Heart Failure,3-5 years,0.119,0.132,0.135
+San Mateo,Greater Bay Area,Heart Failure,6-10 years,0.197,0.173,0.174
+San Mateo,Greater Bay Area,Heart Failure,11+ years,0.662,0.655,0.653
+San Mateo,Greater Bay Area,Hypertension,0-2 years,0.026,0.04,0.039
+San Mateo,Greater Bay Area,Hypertension,3-5 years,0.119,0.134,0.135
+San Mateo,Greater Bay Area,Hypertension,6-10 years,0.197,0.174,0.174
+San Mateo,Greater Bay Area,Hypertension,11+ years,0.658,0.653,0.653
+San Mateo,Greater Bay Area,Urinary Tract Infection,0-2 years,0.042,0.046,0.044
+San Mateo,Greater Bay Area,Urinary Tract Infection,3-5 years,0.136,0.139,0.144
+San Mateo,Greater Bay Area,Urinary Tract Infection,6-10 years,0.185,0.178,0.18
+San Mateo,Greater Bay Area,Urinary Tract Infection,11+ years,0.637,0.636,0.632
+Santa Barbara,Central Coast,Asthma in Younger Adults (Age 18-39),0-2 years,0.067,0.057,0.041
+Santa Barbara,Central Coast,Asthma in Younger Adults (Age 18-39),3-5 years,0.218,0.197,0.141
+Santa Barbara,Central Coast,Asthma in Younger Adults (Age 18-39),6-10 years,0.158,0.173,0.175
+Santa Barbara,Central Coast,Asthma in Younger Adults (Age 18-39),11+ years,0.556,0.573,0.642
+Santa Barbara,Central Coast,Community-Acquired Pneumonia,0-2 years,0.062,0.057,0.043
+Santa Barbara,Central Coast,Community-Acquired Pneumonia,3-5 years,0.216,0.185,0.141
+Santa Barbara,Central Coast,Community-Acquired Pneumonia,6-10 years,0.167,0.182,0.178
+Santa Barbara,Central Coast,Community-Acquired Pneumonia,11+ years,0.554,0.576,0.638
+Santa Barbara,Central Coast,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.067,0.057,0.041
+Santa Barbara,Central Coast,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.217,0.195,0.141
+Santa Barbara,Central Coast,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.157,0.174,0.175
+Santa Barbara,Central Coast,COPD or Asthma in Older Adults (Age 40+),11+ years,0.56,0.574,0.642
+Santa Barbara,Central Coast,Diabetes Composite,0-2 years,0.045,0.052,0.041
+Santa Barbara,Central Coast,Diabetes Composite,3-5 years,0.226,0.175,0.138
+Santa Barbara,Central Coast,Diabetes Composite,6-10 years,0.174,0.189,0.173
+Santa Barbara,Central Coast,Diabetes Composite,11+ years,0.555,0.585,0.647
+Santa Barbara,Central Coast,Heart Failure,0-2 years,0.042,0.05,0.039
+Santa Barbara,Central Coast,Heart Failure,3-5 years,0.221,0.17,0.135
+Santa Barbara,Central Coast,Heart Failure,6-10 years,0.197,0.196,0.174
+Santa Barbara,Central Coast,Heart Failure,11+ years,0.54,0.584,0.653
+Santa Barbara,Central Coast,Hypertension,0-2 years,0.037,0.048,0.039
+Santa Barbara,Central Coast,Hypertension,3-5 years,0.225,0.169,0.135
+Santa Barbara,Central Coast,Hypertension,6-10 years,0.2,0.196,0.174
+Santa Barbara,Central Coast,Hypertension,11+ years,0.537,0.587,0.653
+Santa Barbara,Central Coast,Urinary Tract Infection,0-2 years,0.059,0.058,0.044
+Santa Barbara,Central Coast,Urinary Tract Infection,3-5 years,0.243,0.194,0.144
+Santa Barbara,Central Coast,Urinary Tract Infection,6-10 years,0.181,0.178,0.18
+Santa Barbara,Central Coast,Urinary Tract Infection,11+ years,0.517,0.57,0.632
+Santa Clara,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.039,0.041,0.041
+Santa Clara,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.134,0.138,0.141
+Santa Clara,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.159,0.169,0.175
+Santa Clara,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.668,0.652,0.642
+Santa Clara,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.037,0.042,0.043
+Santa Clara,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.135,0.137,0.141
+Santa Clara,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.162,0.168,0.178
+Santa Clara,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.665,0.653,0.638
+Santa Clara,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.038,0.041,0.041
+Santa Clara,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.134,0.138,0.141
+Santa Clara,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.159,0.17,0.175
+Santa Clara,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.669,0.652,0.642
+Santa Clara,Greater Bay Area,Diabetes Composite,0-2 years,0.039,0.041,0.041
+Santa Clara,Greater Bay Area,Diabetes Composite,3-5 years,0.139,0.138,0.138
+Santa Clara,Greater Bay Area,Diabetes Composite,6-10 years,0.155,0.166,0.173
+Santa Clara,Greater Bay Area,Diabetes Composite,11+ years,0.667,0.655,0.647
+Santa Clara,Greater Bay Area,Heart Failure,0-2 years,0.035,0.04,0.039
+Santa Clara,Greater Bay Area,Heart Failure,3-5 years,0.128,0.132,0.135
+Santa Clara,Greater Bay Area,Heart Failure,6-10 years,0.161,0.173,0.174
+Santa Clara,Greater Bay Area,Heart Failure,11+ years,0.676,0.655,0.653
+Santa Clara,Greater Bay Area,Hypertension,0-2 years,0.035,0.04,0.039
+Santa Clara,Greater Bay Area,Hypertension,3-5 years,0.132,0.134,0.135
+Santa Clara,Greater Bay Area,Hypertension,6-10 years,0.16,0.174,0.174
+Santa Clara,Greater Bay Area,Hypertension,11+ years,0.673,0.653,0.653
+Santa Clara,Greater Bay Area,Urinary Tract Infection,0-2 years,0.05,0.046,0.044
+Santa Clara,Greater Bay Area,Urinary Tract Infection,3-5 years,0.142,0.139,0.144
+Santa Clara,Greater Bay Area,Urinary Tract Infection,6-10 years,0.173,0.178,0.18
+Santa Clara,Greater Bay Area,Urinary Tract Infection,11+ years,0.635,0.636,0.632
+Santa Cruz,Central Coast,Asthma in Younger Adults (Age 18-39),0-2 years,0.059,0.057,0.041
+Santa Cruz,Central Coast,Asthma in Younger Adults (Age 18-39),3-5 years,0.146,0.197,0.141
+Santa Cruz,Central Coast,Asthma in Younger Adults (Age 18-39),6-10 years,0.212,0.173,0.175
+Santa Cruz,Central Coast,Asthma in Younger Adults (Age 18-39),11+ years,0.583,0.573,0.642
+Santa Cruz,Central Coast,Community-Acquired Pneumonia,0-2 years,0.059,0.057,0.043
+Santa Cruz,Central Coast,Community-Acquired Pneumonia,3-5 years,0.154,0.185,0.141
+Santa Cruz,Central Coast,Community-Acquired Pneumonia,6-10 years,0.216,0.182,0.178
+Santa Cruz,Central Coast,Community-Acquired Pneumonia,11+ years,0.571,0.576,0.638
+Santa Cruz,Central Coast,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.059,0.057,0.041
+Santa Cruz,Central Coast,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.15,0.195,0.141
+Santa Cruz,Central Coast,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.215,0.174,0.175
+Santa Cruz,Central Coast,COPD or Asthma in Older Adults (Age 40+),11+ years,0.577,0.574,0.642
+Santa Cruz,Central Coast,Diabetes Composite,0-2 years,0.057,0.052,0.041
+Santa Cruz,Central Coast,Diabetes Composite,3-5 years,0.14,0.175,0.138
+Santa Cruz,Central Coast,Diabetes Composite,6-10 years,0.231,0.189,0.173
+Santa Cruz,Central Coast,Diabetes Composite,11+ years,0.572,0.585,0.647
+Santa Cruz,Central Coast,Heart Failure,0-2 years,0.06,0.05,0.039
+Santa Cruz,Central Coast,Heart Failure,3-5 years,0.136,0.17,0.135
+Santa Cruz,Central Coast,Heart Failure,6-10 years,0.219,0.196,0.174
+Santa Cruz,Central Coast,Heart Failure,11+ years,0.585,0.584,0.653
+Santa Cruz,Central Coast,Hypertension,0-2 years,0.061,0.048,0.039
+Santa Cruz,Central Coast,Hypertension,3-5 years,0.138,0.169,0.135
+Santa Cruz,Central Coast,Hypertension,6-10 years,0.209,0.196,0.174
+Santa Cruz,Central Coast,Hypertension,11+ years,0.592,0.587,0.653
+Santa Cruz,Central Coast,Urinary Tract Infection,0-2 years,0.065,0.058,0.044
+Santa Cruz,Central Coast,Urinary Tract Infection,3-5 years,0.149,0.194,0.144
+Santa Cruz,Central Coast,Urinary Tract Infection,6-10 years,0.212,0.178,0.18
+Santa Cruz,Central Coast,Urinary Tract Infection,11+ years,0.574,0.57,0.632
+Shasta,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.097,0.088,0.041
+Shasta,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.165,0.227,0.141
+Shasta,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.189,0.2,0.175
+Shasta,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.548,0.483,0.642
+Shasta,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.091,0.086,0.043
+Shasta,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.171,0.225,0.141
+Shasta,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.166,0.2,0.178
+Shasta,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.572,0.487,0.638
+Shasta,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.096,0.087,0.041
+Shasta,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.177,0.231,0.141
+Shasta,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.187,0.199,0.175
+Shasta,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.54,0.481,0.642
+Shasta,Northern and Sierra,Diabetes Composite,0-2 years,0.081,0.084,0.041
+Shasta,Northern and Sierra,Diabetes Composite,3-5 years,0.176,0.233,0.138
+Shasta,Northern and Sierra,Diabetes Composite,6-10 years,0.177,0.201,0.173
+Shasta,Northern and Sierra,Diabetes Composite,11+ years,0.566,0.481,0.647
+Shasta,Northern and Sierra,Heart Failure,0-2 years,0.084,0.077,0.039
+Shasta,Northern and Sierra,Heart Failure,3-5 years,0.194,0.227,0.135
+Shasta,Northern and Sierra,Heart Failure,6-10 years,0.188,0.192,0.174
+Shasta,Northern and Sierra,Heart Failure,11+ years,0.534,0.504,0.653
+Shasta,Northern and Sierra,Hypertension,0-2 years,0.084,0.076,0.039
+Shasta,Northern and Sierra,Hypertension,3-5 years,0.179,0.226,0.135
+Shasta,Northern and Sierra,Hypertension,6-10 years,0.199,0.19,0.174
+Shasta,Northern and Sierra,Hypertension,11+ years,0.538,0.507,0.653
+Shasta,Northern and Sierra,Urinary Tract Infection,0-2 years,0.088,0.096,0.044
+Shasta,Northern and Sierra,Urinary Tract Infection,3-5 years,0.161,0.225,0.144
+Shasta,Northern and Sierra,Urinary Tract Infection,6-10 years,0.161,0.189,0.18
+Shasta,Northern and Sierra,Urinary Tract Infection,11+ years,0.59,0.488,0.632
+Siskiyou,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.122,0.088,0.041
+Siskiyou,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.444,0.227,0.141
+Siskiyou,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.237,0.2,0.175
+Siskiyou,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.197,0.483,0.642
+Siskiyou,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.137,0.086,0.043
+Siskiyou,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.421,0.225,0.141
+Siskiyou,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.266,0.2,0.178
+Siskiyou,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.176,0.487,0.638
+Siskiyou,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.122,0.087,0.041
+Siskiyou,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.444,0.231,0.141
+Siskiyou,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.237,0.199,0.175
+Siskiyou,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.197,0.481,0.642
+Siskiyou,Northern and Sierra,Diabetes Composite,0-2 years,0.137,0.084,0.041
+Siskiyou,Northern and Sierra,Diabetes Composite,3-5 years,0.421,0.233,0.138
+Siskiyou,Northern and Sierra,Diabetes Composite,6-10 years,0.266,0.201,0.173
+Siskiyou,Northern and Sierra,Diabetes Composite,11+ years,0.176,0.481,0.647
+Siskiyou,Northern and Sierra,Heart Failure,0-2 years,0.114,0.077,0.039
+Siskiyou,Northern and Sierra,Heart Failure,3-5 years,0.351,0.227,0.135
+Siskiyou,Northern and Sierra,Heart Failure,6-10 years,0.221,0.192,0.174
+Siskiyou,Northern and Sierra,Heart Failure,11+ years,0.314,0.504,0.653
+Siskiyou,Northern and Sierra,Hypertension,0-2 years,0.114,0.076,0.039
+Siskiyou,Northern and Sierra,Hypertension,3-5 years,0.351,0.226,0.135
+Siskiyou,Northern and Sierra,Hypertension,6-10 years,0.221,0.19,0.174
+Siskiyou,Northern and Sierra,Hypertension,11+ years,0.314,0.507,0.653
+Siskiyou,Northern and Sierra,Urinary Tract Infection,0-2 years,0.185,0.096,0.044
+Siskiyou,Northern and Sierra,Urinary Tract Infection,3-5 years,0.362,0.225,0.144
+Siskiyou,Northern and Sierra,Urinary Tract Infection,6-10 years,0.228,0.189,0.18
+Siskiyou,Northern and Sierra,Urinary Tract Infection,11+ years,0.225,0.488,0.632
+Solano,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.07,0.041,0.041
+Solano,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.092,0.138,0.141
+Solano,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.151,0.169,0.175
+Solano,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.687,0.652,0.642
+Solano,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.071,0.042,0.043
+Solano,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.107,0.137,0.141
+Solano,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.156,0.168,0.178
+Solano,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.665,0.653,0.638
+Solano,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.069,0.041,0.041
+Solano,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.098,0.138,0.141
+Solano,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.151,0.17,0.175
+Solano,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.681,0.652,0.642
+Solano,Greater Bay Area,Diabetes Composite,0-2 years,0.072,0.041,0.041
+Solano,Greater Bay Area,Diabetes Composite,3-5 years,0.11,0.138,0.138
+Solano,Greater Bay Area,Diabetes Composite,6-10 years,0.16,0.166,0.173
+Solano,Greater Bay Area,Diabetes Composite,11+ years,0.658,0.655,0.647
+Solano,Greater Bay Area,Heart Failure,0-2 years,0.066,0.04,0.039
+Solano,Greater Bay Area,Heart Failure,3-5 years,0.107,0.132,0.135
+Solano,Greater Bay Area,Heart Failure,6-10 years,0.167,0.173,0.174
+Solano,Greater Bay Area,Heart Failure,11+ years,0.66,0.655,0.653
+Solano,Greater Bay Area,Hypertension,0-2 years,0.067,0.04,0.039
+Solano,Greater Bay Area,Hypertension,3-5 years,0.112,0.134,0.135
+Solano,Greater Bay Area,Hypertension,6-10 years,0.164,0.174,0.174
+Solano,Greater Bay Area,Hypertension,11+ years,0.656,0.653,0.653
+Solano,Greater Bay Area,Urinary Tract Infection,0-2 years,0.065,0.046,0.044
+Solano,Greater Bay Area,Urinary Tract Infection,3-5 years,0.094,0.139,0.144
+Solano,Greater Bay Area,Urinary Tract Infection,6-10 years,0.173,0.178,0.18
+Solano,Greater Bay Area,Urinary Tract Infection,11+ years,0.668,0.636,0.632
+Sonoma,Greater Bay Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.084,0.041,0.041
+Sonoma,Greater Bay Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.192,0.138,0.141
+Sonoma,Greater Bay Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.174,0.169,0.175
+Sonoma,Greater Bay Area,Asthma in Younger Adults (Age 18-39),11+ years,0.55,0.652,0.642
+Sonoma,Greater Bay Area,Community-Acquired Pneumonia,0-2 years,0.077,0.042,0.043
+Sonoma,Greater Bay Area,Community-Acquired Pneumonia,3-5 years,0.184,0.137,0.141
+Sonoma,Greater Bay Area,Community-Acquired Pneumonia,6-10 years,0.191,0.168,0.178
+Sonoma,Greater Bay Area,Community-Acquired Pneumonia,11+ years,0.548,0.653,0.638
+Sonoma,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.083,0.041,0.041
+Sonoma,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.189,0.138,0.141
+Sonoma,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.176,0.17,0.175
+Sonoma,Greater Bay Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.552,0.652,0.642
+Sonoma,Greater Bay Area,Diabetes Composite,0-2 years,0.072,0.041,0.041
+Sonoma,Greater Bay Area,Diabetes Composite,3-5 years,0.185,0.138,0.138
+Sonoma,Greater Bay Area,Diabetes Composite,6-10 years,0.184,0.166,0.173
+Sonoma,Greater Bay Area,Diabetes Composite,11+ years,0.559,0.655,0.647
+Sonoma,Greater Bay Area,Heart Failure,0-2 years,0.087,0.04,0.039
+Sonoma,Greater Bay Area,Heart Failure,3-5 years,0.179,0.132,0.135
+Sonoma,Greater Bay Area,Heart Failure,6-10 years,0.198,0.173,0.174
+Sonoma,Greater Bay Area,Heart Failure,11+ years,0.536,0.655,0.653
+Sonoma,Greater Bay Area,Hypertension,0-2 years,0.079,0.04,0.039
+Sonoma,Greater Bay Area,Hypertension,3-5 years,0.182,0.134,0.135
+Sonoma,Greater Bay Area,Hypertension,6-10 years,0.196,0.174,0.174
+Sonoma,Greater Bay Area,Hypertension,11+ years,0.543,0.653,0.653
+Sonoma,Greater Bay Area,Urinary Tract Infection,0-2 years,0.088,0.046,0.044
+Sonoma,Greater Bay Area,Urinary Tract Infection,3-5 years,0.193,0.139,0.144
+Sonoma,Greater Bay Area,Urinary Tract Infection,6-10 years,0.184,0.178,0.18
+Sonoma,Greater Bay Area,Urinary Tract Infection,11+ years,0.535,0.636,0.632
+Stanislaus,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.019,0.034,0.041
+Stanislaus,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.153,0.137,0.141
+Stanislaus,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.172,0.191,0.175
+Stanislaus,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.657,0.639,0.642
+Stanislaus,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0.019,0.032,0.043
+Stanislaus,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.136,0.135,0.141
+Stanislaus,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.182,0.191,0.178
+Stanislaus,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.663,0.641,0.638
+Stanislaus,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.019,0.034,0.041
+Stanislaus,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.153,0.137,0.141
+Stanislaus,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.172,0.19,0.175
+Stanislaus,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.657,0.639,0.642
+Stanislaus,San Joaquin Valley,Diabetes Composite,0-2 years,0.018,0.032,0.041
+Stanislaus,San Joaquin Valley,Diabetes Composite,3-5 years,0.128,0.131,0.138
+Stanislaus,San Joaquin Valley,Diabetes Composite,6-10 years,0.194,0.188,0.173
+Stanislaus,San Joaquin Valley,Diabetes Composite,11+ years,0.66,0.648,0.647
+Stanislaus,San Joaquin Valley,Heart Failure,0-2 years,0.019,0.029,0.039
+Stanislaus,San Joaquin Valley,Heart Failure,3-5 years,0.128,0.127,0.135
+Stanislaus,San Joaquin Valley,Heart Failure,6-10 years,0.169,0.18,0.174
+Stanislaus,San Joaquin Valley,Heart Failure,11+ years,0.683,0.664,0.653
+Stanislaus,San Joaquin Valley,Hypertension,0-2 years,0.019,0.031,0.039
+Stanislaus,San Joaquin Valley,Hypertension,3-5 years,0.122,0.126,0.135
+Stanislaus,San Joaquin Valley,Hypertension,6-10 years,0.179,0.177,0.174
+Stanislaus,San Joaquin Valley,Hypertension,11+ years,0.68,0.666,0.653
+Stanislaus,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.017,0.035,0.044
+Stanislaus,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.139,0.137,0.144
+Stanislaus,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.162,0.191,0.18
+Stanislaus,San Joaquin Valley,Urinary Tract Infection,11+ years,0.682,0.636,0.632
+Sutter,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.059,0.088,0.041
+Sutter,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.222,0.227,0.141
+Sutter,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.209,0.2,0.175
+Sutter,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.51,0.483,0.642
+Sutter,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.037,0.086,0.043
+Sutter,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.233,0.225,0.141
+Sutter,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.219,0.2,0.178
+Sutter,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.511,0.487,0.638
+Sutter,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.059,0.087,0.041
+Sutter,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.222,0.231,0.141
+Sutter,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.209,0.199,0.175
+Sutter,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.51,0.481,0.642
+Sutter,Northern and Sierra,Diabetes Composite,0-2 years,0.035,0.084,0.041
+Sutter,Northern and Sierra,Diabetes Composite,3-5 years,0.308,0.233,0.138
+Sutter,Northern and Sierra,Diabetes Composite,6-10 years,0.203,0.201,0.173
+Sutter,Northern and Sierra,Diabetes Composite,11+ years,0.454,0.481,0.647
+Sutter,Northern and Sierra,Heart Failure,0-2 years,0.039,0.077,0.039
+Sutter,Northern and Sierra,Heart Failure,3-5 years,0.203,0.227,0.135
+Sutter,Northern and Sierra,Heart Failure,6-10 years,0.227,0.192,0.174
+Sutter,Northern and Sierra,Heart Failure,11+ years,0.531,0.504,0.653
+Sutter,Northern and Sierra,Hypertension,0-2 years,0.038,0.076,0.039
+Sutter,Northern and Sierra,Hypertension,3-5 years,0.238,0.226,0.135
+Sutter,Northern and Sierra,Hypertension,6-10 years,0.224,0.19,0.174
+Sutter,Northern and Sierra,Hypertension,11+ years,0.5,0.507,0.653
+Sutter,Northern and Sierra,Urinary Tract Infection,0-2 years,0.036,0.096,0.044
+Sutter,Northern and Sierra,Urinary Tract Infection,3-5 years,0.21,0.225,0.144
+Sutter,Northern and Sierra,Urinary Tract Infection,6-10 years,0.221,0.189,0.18
+Sutter,Northern and Sierra,Urinary Tract Infection,11+ years,0.533,0.488,0.632
+Tehama,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.093,0.088,0.041
+Tehama,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.236,0.227,0.141
+Tehama,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.379,0.2,0.175
+Tehama,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.292,0.483,0.642
+Tehama,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.093,0.086,0.043
+Tehama,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.236,0.225,0.141
+Tehama,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.379,0.2,0.178
+Tehama,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.292,0.487,0.638
+Tehama,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.093,0.087,0.041
+Tehama,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.236,0.231,0.141
+Tehama,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.379,0.199,0.175
+Tehama,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.292,0.481,0.642
+Tehama,Northern and Sierra,Diabetes Composite,0-2 years,0.093,0.084,0.041
+Tehama,Northern and Sierra,Diabetes Composite,3-5 years,0.236,0.233,0.138
+Tehama,Northern and Sierra,Diabetes Composite,6-10 years,0.379,0.201,0.173
+Tehama,Northern and Sierra,Diabetes Composite,11+ years,0.292,0.481,0.647
+Tehama,Northern and Sierra,Heart Failure,0-2 years,0.084,0.077,0.039
+Tehama,Northern and Sierra,Heart Failure,3-5 years,0.266,0.227,0.135
+Tehama,Northern and Sierra,Heart Failure,6-10 years,0.34,0.192,0.174
+Tehama,Northern and Sierra,Heart Failure,11+ years,0.309,0.504,0.653
+Tehama,Northern and Sierra,Hypertension,0-2 years,0.084,0.076,0.039
+Tehama,Northern and Sierra,Hypertension,3-5 years,0.266,0.226,0.135
+Tehama,Northern and Sierra,Hypertension,6-10 years,0.34,0.19,0.174
+Tehama,Northern and Sierra,Hypertension,11+ years,0.309,0.507,0.653
+Tehama,Northern and Sierra,Urinary Tract Infection,0-2 years,0.088,0.096,0.044
+Tehama,Northern and Sierra,Urinary Tract Infection,3-5 years,0.223,0.225,0.144
+Tehama,Northern and Sierra,Urinary Tract Infection,6-10 years,0.358,0.189,0.18
+Tehama,Northern and Sierra,Urinary Tract Infection,11+ years,0.331,0.488,0.632
+Trinity,Northern and Sierra,Heart Failure,0-2 years,0,0.077,0.039
+Trinity,Northern and Sierra,Heart Failure,3-5 years,0,0.227,0.135
+Trinity,Northern and Sierra,Heart Failure,6-10 years,0.351,0.192,0.174
+Trinity,Northern and Sierra,Heart Failure,11+ years,0.649,0.504,0.653
+Trinity,Northern and Sierra,Hypertension,0-2 years,0,0.076,0.039
+Trinity,Northern and Sierra,Hypertension,3-5 years,0,0.226,0.135
+Trinity,Northern and Sierra,Hypertension,6-10 years,0.351,0.19,0.174
+Trinity,Northern and Sierra,Hypertension,11+ years,0.649,0.507,0.653
+Tulare,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),0-2 years,0.016,0.034,0.041
+Tulare,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),3-5 years,0.096,0.137,0.141
+Tulare,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),6-10 years,0.181,0.191,0.175
+Tulare,San Joaquin Valley,Asthma in Younger Adults (Age 18-39),11+ years,0.707,0.639,0.642
+Tulare,San Joaquin Valley,Community-Acquired Pneumonia,0-2 years,0.017,0.032,0.043
+Tulare,San Joaquin Valley,Community-Acquired Pneumonia,3-5 years,0.081,0.135,0.141
+Tulare,San Joaquin Valley,Community-Acquired Pneumonia,6-10 years,0.167,0.191,0.178
+Tulare,San Joaquin Valley,Community-Acquired Pneumonia,11+ years,0.735,0.641,0.638
+Tulare,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.016,0.034,0.041
+Tulare,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.096,0.137,0.141
+Tulare,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.181,0.19,0.175
+Tulare,San Joaquin Valley,COPD or Asthma in Older Adults (Age 40+),11+ years,0.707,0.639,0.642
+Tulare,San Joaquin Valley,Diabetes Composite,0-2 years,0.034,0.032,0.041
+Tulare,San Joaquin Valley,Diabetes Composite,3-5 years,0.081,0.131,0.138
+Tulare,San Joaquin Valley,Diabetes Composite,6-10 years,0.204,0.188,0.173
+Tulare,San Joaquin Valley,Diabetes Composite,11+ years,0.681,0.648,0.647
+Tulare,San Joaquin Valley,Heart Failure,0-2 years,0.013,0.029,0.039
+Tulare,San Joaquin Valley,Heart Failure,3-5 years,0.077,0.127,0.135
+Tulare,San Joaquin Valley,Heart Failure,6-10 years,0.178,0.18,0.174
+Tulare,San Joaquin Valley,Heart Failure,11+ years,0.732,0.664,0.653
+Tulare,San Joaquin Valley,Hypertension,0-2 years,0.029,0.031,0.039
+Tulare,San Joaquin Valley,Hypertension,3-5 years,0.075,0.126,0.135
+Tulare,San Joaquin Valley,Hypertension,6-10 years,0.181,0.177,0.174
+Tulare,San Joaquin Valley,Hypertension,11+ years,0.715,0.666,0.653
+Tulare,San Joaquin Valley,Urinary Tract Infection,0-2 years,0.033,0.035,0.044
+Tulare,San Joaquin Valley,Urinary Tract Infection,3-5 years,0.088,0.137,0.144
+Tulare,San Joaquin Valley,Urinary Tract Infection,6-10 years,0.193,0.191,0.18
+Tulare,San Joaquin Valley,Urinary Tract Infection,11+ years,0.686,0.636,0.632
+Tuolumne,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.064,0.088,0.041
+Tuolumne,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.191,0.227,0.141
+Tuolumne,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.353,0.2,0.175
+Tuolumne,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.392,0.483,0.642
+Tuolumne,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.08,0.086,0.043
+Tuolumne,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.16,0.225,0.141
+Tuolumne,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.265,0.2,0.178
+Tuolumne,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.494,0.487,0.638
+Tuolumne,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.064,0.087,0.041
+Tuolumne,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.191,0.231,0.141
+Tuolumne,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.353,0.199,0.175
+Tuolumne,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.392,0.481,0.642
+Tuolumne,Northern and Sierra,Diabetes Composite,0-2 years,0.077,0.084,0.041
+Tuolumne,Northern and Sierra,Diabetes Composite,3-5 years,0.23,0.233,0.138
+Tuolumne,Northern and Sierra,Diabetes Composite,6-10 years,0.221,0.201,0.173
+Tuolumne,Northern and Sierra,Diabetes Composite,11+ years,0.472,0.481,0.647
+Tuolumne,Northern and Sierra,Heart Failure,0-2 years,0.098,0.077,0.039
+Tuolumne,Northern and Sierra,Heart Failure,3-5 years,0.129,0.227,0.135
+Tuolumne,Northern and Sierra,Heart Failure,6-10 years,0.219,0.192,0.174
+Tuolumne,Northern and Sierra,Heart Failure,11+ years,0.554,0.504,0.653
+Tuolumne,Northern and Sierra,Hypertension,0-2 years,0.103,0.076,0.039
+Tuolumne,Northern and Sierra,Hypertension,3-5 years,0.136,0.226,0.135
+Tuolumne,Northern and Sierra,Hypertension,6-10 years,0.179,0.19,0.174
+Tuolumne,Northern and Sierra,Hypertension,11+ years,0.582,0.507,0.653
+Tuolumne,Northern and Sierra,Urinary Tract Infection,0-2 years,0.067,0.096,0.044
+Tuolumne,Northern and Sierra,Urinary Tract Infection,3-5 years,0.134,0.225,0.144
+Tuolumne,Northern and Sierra,Urinary Tract Infection,6-10 years,0.196,0.189,0.18
+Tuolumne,Northern and Sierra,Urinary Tract Infection,11+ years,0.603,0.488,0.632
+Ventura,Central Coast,Asthma in Younger Adults (Age 18-39),0-2 years,0.034,0.057,0.041
+Ventura,Central Coast,Asthma in Younger Adults (Age 18-39),3-5 years,0.196,0.197,0.141
+Ventura,Central Coast,Asthma in Younger Adults (Age 18-39),6-10 years,0.142,0.173,0.175
+Ventura,Central Coast,Asthma in Younger Adults (Age 18-39),11+ years,0.628,0.573,0.642
+Ventura,Central Coast,Community-Acquired Pneumonia,0-2 years,0.036,0.057,0.043
+Ventura,Central Coast,Community-Acquired Pneumonia,3-5 years,0.171,0.185,0.141
+Ventura,Central Coast,Community-Acquired Pneumonia,6-10 years,0.156,0.182,0.178
+Ventura,Central Coast,Community-Acquired Pneumonia,11+ years,0.637,0.576,0.638
+Ventura,Central Coast,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.033,0.057,0.041
+Ventura,Central Coast,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.195,0.195,0.141
+Ventura,Central Coast,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.143,0.174,0.175
+Ventura,Central Coast,COPD or Asthma in Older Adults (Age 40+),11+ years,0.629,0.574,0.642
+Ventura,Central Coast,Diabetes Composite,0-2 years,0.037,0.052,0.041
+Ventura,Central Coast,Diabetes Composite,3-5 years,0.157,0.175,0.138
+Ventura,Central Coast,Diabetes Composite,6-10 years,0.165,0.189,0.173
+Ventura,Central Coast,Diabetes Composite,11+ years,0.641,0.585,0.647
+Ventura,Central Coast,Heart Failure,0-2 years,0.034,0.05,0.039
+Ventura,Central Coast,Heart Failure,3-5 years,0.155,0.17,0.135
+Ventura,Central Coast,Heart Failure,6-10 years,0.172,0.196,0.174
+Ventura,Central Coast,Heart Failure,11+ years,0.639,0.584,0.653
+Ventura,Central Coast,Hypertension,0-2 years,0.034,0.048,0.039
+Ventura,Central Coast,Hypertension,3-5 years,0.15,0.169,0.135
+Ventura,Central Coast,Hypertension,6-10 years,0.175,0.196,0.174
+Ventura,Central Coast,Hypertension,11+ years,0.641,0.587,0.653
+Ventura,Central Coast,Urinary Tract Infection,0-2 years,0.045,0.058,0.044
+Ventura,Central Coast,Urinary Tract Infection,3-5 years,0.175,0.194,0.144
+Ventura,Central Coast,Urinary Tract Infection,6-10 years,0.152,0.178,0.18
+Ventura,Central Coast,Urinary Tract Infection,11+ years,0.628,0.57,0.632
+Yolo,Sacramento Area,Asthma in Younger Adults (Age 18-39),0-2 years,0.104,0.048,0.041
+Yolo,Sacramento Area,Asthma in Younger Adults (Age 18-39),3-5 years,0.16,0.122,0.141
+Yolo,Sacramento Area,Asthma in Younger Adults (Age 18-39),6-10 years,0.189,0.171,0.175
+Yolo,Sacramento Area,Asthma in Younger Adults (Age 18-39),11+ years,0.547,0.659,0.642
+Yolo,Sacramento Area,Community-Acquired Pneumonia,0-2 years,0.106,0.046,0.043
+Yolo,Sacramento Area,Community-Acquired Pneumonia,3-5 years,0.157,0.12,0.141
+Yolo,Sacramento Area,Community-Acquired Pneumonia,6-10 years,0.178,0.165,0.178
+Yolo,Sacramento Area,Community-Acquired Pneumonia,11+ years,0.559,0.668,0.638
+Yolo,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.104,0.049,0.041
+Yolo,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.16,0.122,0.141
+Yolo,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.189,0.171,0.175
+Yolo,Sacramento Area,COPD or Asthma in Older Adults (Age 40+),11+ years,0.547,0.658,0.642
+Yolo,Sacramento Area,Diabetes Composite,0-2 years,0.111,0.047,0.041
+Yolo,Sacramento Area,Diabetes Composite,3-5 years,0.152,0.115,0.138
+Yolo,Sacramento Area,Diabetes Composite,6-10 years,0.177,0.169,0.173
+Yolo,Sacramento Area,Diabetes Composite,11+ years,0.559,0.67,0.647
+Yolo,Sacramento Area,Heart Failure,0-2 years,0.093,0.043,0.039
+Yolo,Sacramento Area,Heart Failure,3-5 years,0.183,0.114,0.135
+Yolo,Sacramento Area,Heart Failure,6-10 years,0.183,0.168,0.174
+Yolo,Sacramento Area,Heart Failure,11+ years,0.54,0.675,0.653
+Yolo,Sacramento Area,Hypertension,0-2 years,0.094,0.043,0.039
+Yolo,Sacramento Area,Hypertension,3-5 years,0.173,0.114,0.135
+Yolo,Sacramento Area,Hypertension,6-10 years,0.184,0.167,0.174
+Yolo,Sacramento Area,Hypertension,11+ years,0.55,0.677,0.653
+Yolo,Sacramento Area,Urinary Tract Infection,0-2 years,0.118,0.054,0.044
+Yolo,Sacramento Area,Urinary Tract Infection,3-5 years,0.145,0.122,0.144
+Yolo,Sacramento Area,Urinary Tract Infection,6-10 years,0.191,0.169,0.18
+Yolo,Sacramento Area,Urinary Tract Infection,11+ years,0.546,0.655,0.632
+Yuba,Northern and Sierra,Asthma in Younger Adults (Age 18-39),0-2 years,0.101,0.088,0.041
+Yuba,Northern and Sierra,Asthma in Younger Adults (Age 18-39),3-5 years,0.101,0.227,0.141
+Yuba,Northern and Sierra,Asthma in Younger Adults (Age 18-39),6-10 years,0.189,0.2,0.175
+Yuba,Northern and Sierra,Asthma in Younger Adults (Age 18-39),11+ years,0.61,0.483,0.642
+Yuba,Northern and Sierra,Community-Acquired Pneumonia,0-2 years,0.101,0.086,0.043
+Yuba,Northern and Sierra,Community-Acquired Pneumonia,3-5 years,0.101,0.225,0.141
+Yuba,Northern and Sierra,Community-Acquired Pneumonia,6-10 years,0.189,0.2,0.178
+Yuba,Northern and Sierra,Community-Acquired Pneumonia,11+ years,0.61,0.487,0.638
+Yuba,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),0-2 years,0.101,0.087,0.041
+Yuba,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),3-5 years,0.101,0.231,0.141
+Yuba,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),6-10 years,0.189,0.199,0.175
+Yuba,Northern and Sierra,COPD or Asthma in Older Adults (Age 40+),11+ years,0.61,0.481,0.642
+Yuba,Northern and Sierra,Diabetes Composite,0-2 years,0.09,0.084,0.041
+Yuba,Northern and Sierra,Diabetes Composite,3-5 years,0.09,0.233,0.138
+Yuba,Northern and Sierra,Diabetes Composite,6-10 years,0.168,0.201,0.173
+Yuba,Northern and Sierra,Diabetes Composite,11+ years,0.653,0.481,0.647
+Yuba,Northern and Sierra,Heart Failure,0-2 years,0.061,0.077,0.039
+Yuba,Northern and Sierra,Heart Failure,3-5 years,0.061,0.227,0.135
+Yuba,Northern and Sierra,Heart Failure,6-10 years,0.174,0.192,0.174
+Yuba,Northern and Sierra,Heart Failure,11+ years,0.705,0.504,0.653
+Yuba,Northern and Sierra,Hypertension,0-2 years,0.061,0.076,0.039
+Yuba,Northern and Sierra,Hypertension,3-5 years,0.061,0.226,0.135
+Yuba,Northern and Sierra,Hypertension,6-10 years,0.174,0.19,0.174
+Yuba,Northern and Sierra,Hypertension,11+ years,0.705,0.507,0.653
+Yuba,Northern and Sierra,Urinary Tract Infection,0-2 years,0.101,0.096,0.044
+Yuba,Northern and Sierra,Urinary Tract Infection,3-5 years,0.101,0.225,0.144
+Yuba,Northern and Sierra,Urinary Tract Infection,6-10 years,0.189,0.189,0.18
+Yuba,Northern and Sierra,Urinary Tract Infection,11+ years,0.61,0.488,0.632

@@ -1,0 +1,8 @@
+Model,DV,Key_Variable,Coef,P_value,R2
+A1: Log(Cost/Discharge),log_cost_per_discharge,medi_cal_share,2.240850609253736,0.7134713511530223,0.06479929527946893
+A2: Operating Margin,operating_margin,medi_cal_share,-0.023475162500433876,0.9116385845239272,0.2572193247438461
+A3: Log(ED/Discharge),log_ed_per_discharge,medi_cal_share,-2.666532299050399,0.6114524826098215,0.11132876166299532
+B1: PQI Baseline,pqi_mean_rate,medi_cal_share,176.38544304668386,0.45511375872241083,0.3529883333805044
+B2: PQI + Cost/Margin,pqi_mean_rate,medi_cal_share,188.6018921782997,0.44581316656058667,0.361046484165535
+C1: PQI w/ Size Interaction,pqi_mean_rate,mc_x_small,169.96141585804696,0.3798006000139761,0.3749232067368312
+D1: ≥30% + Full Cost,pqi_mean_rate,mc_threshold_30,22.088043866395548,0.4735190415959191,0.4136309074484553
