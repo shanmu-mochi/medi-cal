@@ -1,0 +1,6 @@
+Test,Result,Detail
+Event Study Pre-trends,Fail,Any significant: True
+Temporal Placebo (2014),Fail,p = 0.0292
+Geographic Placebo,Pass,p = 0.9786
+Pre-COVID Effect (2014-2019),No,"DiD = -2.25, p = 0.8204"
+t+1 Implementation Lag,Yes,2018 coef = 5.86

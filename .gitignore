@@ -35,3 +35,4 @@ unclean data/*.xlsx
 # Large files
 *.csv.gz
 
+MedicalFFS_providers.csv
