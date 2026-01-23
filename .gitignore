@@ -36,3 +36,4 @@ unclean data/*.xlsx
 *.csv.gz
 
 MedicalFFS_providers.csv
+newdata/
