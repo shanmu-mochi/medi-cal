@@ -1,0 +1,5 @@
+Model,Outcome,IV,Coefficient,SE,p_value,N,Significant
+1,PQI Rate,Access Gap (Continuous),-0.5075,0.2232,0.023,714,Yes (p<0.05)
+2,PQI Rate,Desert Binary,20.97,27.1,0.4389,714,No
+3,ED Rate/1000,Access Gap (Continuous),-0.5343857463208749,0.18366408868167478,0.0036191230861045112,714,Yes
+4,ED Rate/1000,Desert Binary,23.33570244680568,30.708240710701894,0.44730442719960195,714,No

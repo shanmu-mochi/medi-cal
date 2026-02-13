@@ -1,0 +1,3 @@
+Definition,N_Treated,Treated_Mean_PQI,Control_Mean_PQI,Relative_Risk,E_Value,Interpretation
+Underserved (access_gap < 0),28,221.08928571428575,189.41377551020403,1.1672291791806626,1.609037709598649,Confounder needs RR >= 1.61 to explain away effect
+TRUE DESERT (access_gap < -20),8,246.2392857142857,198.42023809523812,1.2409988420440021,1.7878802587245763,Confounder needs RR >= 1.79 to explain away effect
