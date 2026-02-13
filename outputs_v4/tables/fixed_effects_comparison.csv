@@ -1,0 +1,5 @@
+Model,County_FE,Year_FE,County_Trends,Coef_AccessGap,SE,p_value,N,R2
+Pooled OLS,No,No,No,-0.5075,0.2232,0.023,714,0.2411
+County FE,Yes,No,No,-0.2507,0.093,0.007,714,0.7397
+Two-way FE,Yes,Yes,No,-0.4946,0.1334,0.0002,714,0.8165
+Two-way FE + Linear Trend,Yes,Yes,Pooled,-0.4946,0.1336,0.0002,714,0.8165

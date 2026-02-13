@@ -1,0 +1,4 @@
+Definition,Criterion,N_Counties,N_County_Years,Years,Outcome_Coverage
+TRUE DESERT,access_gap < -20,8,102,2012-2024,"PQI: 100%, ED: 100%"
+Underserved,access_gap < 0,28,356,2012-2024,"PQI: 100%, ED: 100%"
+Non-Desert,access_gap ≥ 0,28,358,2012-2024,"PQI: 100%, ED: 100%"

@@ -1,0 +1,22 @@
+Variable,Description,Source File,Unit,Time-Varying
+fips5,5-digit FIPS code (state + county),county name.xlsx,code,No
+year,Year,PQI.csv,year,Yes
+pqi_mean_rate,"Mean PQI rate (risk-adjusted if available, else observed)",PQI.csv,rate per 100k,Yes
+pqi_sum_count,Total PQI counts,PQI.csv,count,Yes
+pqi_sum_population,Population denominator for PQI,PQI.csv,count,Yes
+population,County population,E4 estiamtes.xlsx,count,Yes
+medi_cal_enrollment,Medi-Cal enrollment (annual average monthly),medi-cal-enrollment-dashboard-data.csv,count,Yes
+medi_cal_share,Medi-Cal enrollment / population,medi-cal-enrollment-dashboard-data.csv,proportion,Yes
+pcp_supply,Primary care physician supply (count),physicians-actively-working-by-specialty-and-patient-care-hours.xlsx,count,No
+pcp_per_100k,"Primary care physicians per 100,000 population",physicians-actively-working-by-specialty-and-patient-care-hours.xlsx,rate,No
+shortage_flag,Primary care shortage designation (0/1),Primary CAre Shortage .csv,binary,Yes
+shortage_score,Primary care shortage score,Primary CAre Shortage .csv,score,Yes
+poverty_pct,Percent below poverty line,EconACS.csv,percent,No
+unemp_pct,Unemployment rate,EconACS.csv,percent,No
+age65_pct,Percent age 65 and over,demoACS.csv,percent,No
+hispanic_pct,Percent Hispanic,demoACS.csv,percent,No
+bachelors_pct,Percent with bachelor degree or higher,educACS.csv,percent,No
+desert_q_def1,Desert (quartile): high Medi-Cal & low PCP,Derived,binary,Yes
+desert_q_def2,Desert (quartile): high Medi-Cal & (low PCP OR shortage),Derived,binary,Yes
+desert_thr_def1,Desert (threshold): high Medi-Cal & low PCP,Derived,binary,Yes
+desert_thr_def2,Desert (threshold): high Medi-Cal & (low PCP OR shortage),Derived,binary,Yes

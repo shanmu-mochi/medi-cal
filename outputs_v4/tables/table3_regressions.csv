@@ -1,0 +1,6 @@
+Model,Outcome,Exposure,Coefficient,SE,p_value,Sig,N,N_Counties
+1,PQI Rate (per 100k),Access Gap,-0.5075,0.2232,0.023,**,714,56
+2,PQI Rate (per 100k),TRUE DESERT (gap < -20),20.9729,27.0975,0.4389,,714,56
+3,PQI Rate (per 100k),Underserved (gap < 0),24.7127,13.9908,0.0773,*,714,56
+4,"ED Visits (per 1k, residence-based)",Access Gap,1410.8334,869.153,0.1045,,714,56
+5,"ED Visits (per 1k, residence-based)",TRUE DESERT (gap < -20),-180203.1457,93702.4271,0.0545,*,714,56

@@ -1,0 +1,7 @@
+Location,Issue,Previous_Value,Corrected_Value,Resolution
+COMPREHENSIVE_CAPSTONE_ANALYSIS.md Section 5.2 vs LaTeX Table 16.1,Parallel specs table shows different coefficients,Access Gap coef = -0.39 (p=0.104) in LaTeX,Access Gap coef = -0.51 (p=0.023) in corrected panel,"Use corrected panel results (N=714, clustered SEs)"
+ROBUSTNESS_REPORT.md Section 4.1 vs COMPREHENSIVE Section 4,Cross-sectional N differs,"N=58 in some tables, N=55 in others",N=55 for 2020 cross-section (3 counties missing data),"Standardize to N=55 for cross-section, N=714 for panel"
+Multiple sections,Desert definition inconsistent,TRUE_DESERT = access_gap < -20 (N=8) vs underserved = access_gap < 0 (N=28),PRIMARY: access_gap < -20 (N=8); SECONDARY: access_gap < 0 (N=28),"Report both, clearly labeled"
+ED analysis sections,ED data attribution changed results dramatically,Facility-based: desert coef = -16.0 (p=0.032),Residence-based: desert coef = +23.3 (p=0.447),Use residence-based only; previous was artifact
+Section 11.3 Cost estimates,ED excess cost calculation inconsistent,$111.6M using facility-based rates,Recalculate using residence-based rates,Recalculate with corrected ED data
+Prop 56 DiD results,Base DiD significant but disappears with trends,Claimed causal effect,Pre-trends exist; causal claim not supported,"Present both specs, emphasize uncertainty"

@@ -1,0 +1,10 @@
+Table,Model,Outcome,Exposure,Coefficient,SE,p_value,N,Notes
+Fixed Effects,Pooled OLS,PQI Rate,Access Gap,-0.5075,0.2232,0.023,714,"County FE: No, Year FE: No"
+Fixed Effects,County FE,PQI Rate,Access Gap,-0.2507,0.093,0.007,714,"County FE: Yes, Year FE: No"
+Fixed Effects,Two-way FE,PQI Rate,Access Gap,-0.4946,0.1334,0.0002,714,"County FE: Yes, Year FE: Yes"
+Fixed Effects,Two-way FE + Linear Trend,PQI Rate,Access Gap,-0.4946,0.1336,0.0002,714,"County FE: Yes, Year FE: Yes"
+PSM,ATT,PQI Rate,Underserved (gap<0),31.68,15.79,0.0549,28,"Nearest neighbor matching, 2020"
+Robustness,Exclude Top 5 Pop Counties,PQI Rate,Access Gap,-0.5091,0.2303,0.027,649,51 counties
+Robustness,Rural Only,PQI Rate,Access Gap,-1.3273,0.2937,0.0,207,17 counties
+Robustness,Suburban Only,PQI Rate,Access Gap,-0.8945,0.3863,0.0206,260,20 counties
+Robustness,Metro Only,PQI Rate,Access Gap,-0.157,0.0675,0.02,247,19 counties

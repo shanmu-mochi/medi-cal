@@ -1,0 +1,7 @@
+Test,Coefficient,SE,p_value,N,Note
+PSM ATT (Underserved vs Matched),31.7,18.5,0.091,56,"Nearest neighbor matching on poverty, age65, MC share"
+E-Value (Underserved),1.61,,,28,Confounder needs RR ≥ 1.61 to explain away effect
+E-Value (TRUE DESERT),1.79,,,8,Confounder needs RR ≥ 1.79 to explain away effect
+Prop 56 DiD (Base),-27.57,11.99,0.022,812,High-MC counties improved more post-2017
+Prop 56 DiD (+ County Trends),0.85,2.2,0.703,812,Effect disappears with county-specific trends
+Placebo 2014,-19.28,7.2,0.008,812,Pre-trend detected - causal claim weakened

@@ -1,0 +1,5 @@
+Specification,N,N_Counties,Coef,SE,p_value
+Exclude Top 5 Pop Counties,649,51,-0.5091,0.2303,0.027
+Rural Only,207,17,-1.3273,0.2937,0.0
+Suburban Only,260,20,-0.8945,0.3863,0.0206
+Metro Only,247,19,-0.157,0.0675,0.02

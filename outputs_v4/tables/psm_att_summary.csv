@@ -1,0 +1,2 @@
+Estimand,Matching_Year,Method,Covariates,N_Matched,ATT,SE,t_stat,p_value
+ATT,2020,"Nearest neighbor, no replacement","poverty_pct, age65_pct",28,31.68,15.79,2.01,0.0549

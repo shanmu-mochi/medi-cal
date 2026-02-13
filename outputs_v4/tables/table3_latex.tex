@@ -1,0 +1,27 @@
+
+\begin{table}[htbp]
+\centering
+\caption{Main Regression Results: Access Gap and Healthcare Outcomes}
+\label{tab:main_results}
+\begin{tabular}{lcccccc}
+\toprule
+& \multicolumn{3}{c}{PQI Rate (per 100k)} & \multicolumn{3}{c}{ED Rate (per 1k)} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& (1) & (2) & (3) & (4) & (5) & (6) \\
+& Continuous & Binary & Binary & Continuous & Binary & Binary \\
+\midrule
+
+\midrule
+Controls & Yes & Yes & Yes & Yes & Yes & Yes \\
+County FE & No & No & No & No & No & No \\
+Year FE & No & No & No & No & No & No \\
+Clustered SE & Yes & Yes & Yes & Yes & Yes & Yes \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}
+\small
+\item Notes: Standard errors clustered by county in parentheses. 
+Controls include poverty rate and percent age 65+.
+* p $<$ 0.10, ** p $<$ 0.05, *** p $<$ 0.01
+\end{tablenotes}
+\end{table}

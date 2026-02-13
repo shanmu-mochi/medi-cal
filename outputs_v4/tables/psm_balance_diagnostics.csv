@@ -1,0 +1,7 @@
+Variable,Treated_Mean,Control_Mean,SMD,SMD_Abs,Balanced,Stage
+poverty_pct,13.95,13.057,0.2,0.2,✗,Before
+age65_pct,16.354,18.875,-0.486,0.486,✗,Before
+propensity,0.531,0.469,0.509,0.509,✗,Before
+poverty_pct,13.95,13.057,0.2,0.2,✗,After
+age65_pct,16.354,18.875,-0.486,0.486,✗,After
+propensity,0.531,0.469,0.509,0.509,✗,After

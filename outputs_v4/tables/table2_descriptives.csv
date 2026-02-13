@@ -1,0 +1,6 @@
+Variable,Desert_Mean,Desert_SD,NonDesert_Mean,NonDesert_SD,Difference,p_value
+pqi_mean_rate,246.24,84.44,198.42,56.51,47.82,0.04
+ed_visits_resident,67990.38,46486.22,187805.52,364668.57,-119815.15,0.36
+access_gap,-32.39,24.32,5.4,36.84,-37.79,0.01
+poverty_pct,16.58,4.25,12.99,4.31,3.58,0.03
+age65_pct,14.78,3.71,18.09,5.4,-3.31,0.1

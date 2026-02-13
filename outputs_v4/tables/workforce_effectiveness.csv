@@ -1,0 +1,4 @@
+Program,Effect_Size,p_value,Verdict
+Managed Care Transition,18,0.0035,WORKS - MC improves outcomes
+Prop 56 Rate Increase,-13.9,0.1621,PARTIAL - modest effect
+HPSA Designation Alone,12.0,0.0002,INSUFFICIENT - needs incentives
